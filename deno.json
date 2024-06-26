@@ -1,0 +1,30 @@
+{
+  "vendor": true,
+  "tasks": {
+    "check": "deno fmt --check && deno lint && deno check **/*.ts && deno check **/*.tsx",
+    "dev": "deno run -A --watch=static/,routes/ dev.ts",
+    "build": "deno run -A dev.ts build",
+    "start": "deno run -A main.ts",
+    "update": "deno run -A -r jsr:@fresh/update ."
+  },
+  "lint": {
+    "rules": {
+      "tags": ["fresh", "recommended"]
+    }
+  },
+  "lock": true,
+  "exclude": ["**/_fresh/*"],
+  "imports": {
+    "@fresh/plugin-tailwind": "jsr:@fresh/plugin-tailwind@^0.0.1-alpha.7",
+    "@marvinh-test/fresh-island": "jsr:@marvinh-test/fresh-island@^0.0.1",
+    "@preact/signals": "npm:@preact/signals@^1.2.3",
+    "fresh": "jsr:@fresh/core@^2.0.0-alpha.17",
+    "preact": "npm:preact@^10.22.0"
+  },
+  "compilerOptions": {
+    "lib": ["dom", "dom.asynciterable", "deno.ns"],
+    "jsx": "precompile",
+    "jsxImportSource": "preact",
+    "jsxPrecompileSkipElements": ["a", "img", "source", "body", "html", "head"]
+  }
+}

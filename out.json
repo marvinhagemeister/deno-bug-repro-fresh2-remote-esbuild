@@ -1,0 +1,5789 @@
+{
+  "roots": [
+    "https://jsr.io/@fresh/core/2.0.0-alpha.17/src/runtime/client/mod.tsx"
+  ],
+  "modules": [
+    {
+      "kind": "esm",
+      "dependencies": [
+        {
+          "specifier": "jsr:@std/path@^0.225.2",
+          "code": {
+            "specifier": "jsr:@std/path@^0.225.2",
+            "span": {
+              "start": {
+                "line": 0,
+                "character": 22
+              },
+              "end": {
+                "line": 0,
+                "character": 46
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./config.ts",
+          "type": {
+            "specifier": "https://jsr.io/@fresh/core/2.0.0-alpha.17/src/config.ts",
+            "span": {
+              "start": {
+                "line": 1,
+                "character": 41
+              },
+              "end": {
+                "line": 1,
+                "character": 54
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./runtime/build_id.ts",
+          "code": {
+            "specifier": "https://jsr.io/@fresh/core/2.0.0-alpha.17/src/runtime/build_id.ts",
+            "span": {
+              "start": {
+                "line": 2,
+                "character": 27
+              },
+              "end": {
+                "line": 2,
+                "character": 50
+              }
+            }
+          }
+        }
+      ],
+      "local": "/Users/marvinh/Library/Caches/deno/deps/https/jsr.io/2e6a3b1eaa38b574fd221e09daec0bd99530de37d13a18b8e330fe8312b7ff46",
+      "emit": "/Users/marvinh/Library/Caches/deno/gen/https/jsr.io/2e6a3b1eaa38b574fd221e09daec0bd99530de37d13a18b8e330fe8312b7ff46.js",
+      "map": null,
+      "size": 3092,
+      "mediaType": "TypeScript",
+      "specifier": "https://jsr.io/@fresh/core/2.0.0-alpha.17/src/build_cache.ts"
+    },
+    {
+      "kind": "esm",
+      "dependencies": [
+        {
+          "specifier": "jsr:@std/path@^0.225.2",
+          "code": {
+            "specifier": "jsr:@std/path@^0.225.2",
+            "span": {
+              "start": {
+                "line": 0,
+                "character": 22
+              },
+              "end": {
+                "line": 0,
+                "character": 46
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./runtime/server/mod.ts",
+          "type": {
+            "specifier": "https://jsr.io/@fresh/core/2.0.0-alpha.17/src/runtime/server/mod.ts",
+            "span": {
+              "start": {
+                "line": 1,
+                "character": 26
+              },
+              "end": {
+                "line": 1,
+                "character": 51
+              }
+            }
+          }
+        }
+      ],
+      "local": "/Users/marvinh/Library/Caches/deno/deps/https/jsr.io/6d89b716776d1096d407f1e27b18f05eafbc85defa0493b138b70b79d23f684a",
+      "emit": "/Users/marvinh/Library/Caches/deno/gen/https/jsr.io/6d89b716776d1096d407f1e27b18f05eafbc85defa0493b138b70b79d23f684a.js",
+      "map": null,
+      "size": 1833,
+      "mediaType": "TypeScript",
+      "specifier": "https://jsr.io/@fresh/core/2.0.0-alpha.17/src/config.ts"
+    },
+    {
+      "kind": "esm",
+      "local": "/Users/marvinh/Library/Caches/deno/deps/https/jsr.io/55bfb26474449bc2d03d6aaabe836e34b62494f1289d5e614b100af50f9febaa",
+      "emit": "/Users/marvinh/Library/Caches/deno/gen/https/jsr.io/55bfb26474449bc2d03d6aaabe836e34b62494f1289d5e614b100af50f9febaa.js",
+      "map": null,
+      "size": 271,
+      "mediaType": "TypeScript",
+      "specifier": "https://jsr.io/@fresh/core/2.0.0-alpha.17/src/constants.ts"
+    },
+    {
+      "kind": "esm",
+      "dependencies": [
+        {
+          "specifier": "npm:preact@^10.22.0",
+          "code": {
+            "specifier": "npm:preact@^10.22.0",
+            "span": {
+              "start": {
+                "line": 6,
+                "character": 7
+              },
+              "end": {
+                "line": 6,
+                "character": 28
+              }
+            }
+          },
+          "npmPackage": "preact@10.22.0"
+        },
+        {
+          "specifier": "npm:preact-render-to-string@^6.4.2",
+          "code": {
+            "specifier": "npm:preact-render-to-string@^6.4.2",
+            "span": {
+              "start": {
+                "line": 7,
+                "character": 31
+              },
+              "end": {
+                "line": 7,
+                "character": 67
+              }
+            }
+          },
+          "npmPackage": "preact-render-to-string@6.5.3_preact@10.22.0"
+        },
+        {
+          "specifier": "./config.ts",
+          "type": {
+            "specifier": "https://jsr.io/@fresh/core/2.0.0-alpha.17/src/config.ts",
+            "span": {
+              "start": {
+                "line": 8,
+                "character": 41
+              },
+              "end": {
+                "line": 8,
+                "character": 54
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./build_cache.ts",
+          "type": {
+            "specifier": "https://jsr.io/@fresh/core/2.0.0-alpha.17/src/build_cache.ts",
+            "span": {
+              "start": {
+                "line": 9,
+                "character": 32
+              },
+              "end": {
+                "line": 9,
+                "character": 50
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./runtime/server/preact_hooks.tsx",
+          "code": {
+            "specifier": "https://jsr.io/@fresh/core/2.0.0-alpha.17/src/runtime/server/preact_hooks.tsx",
+            "span": {
+              "start": {
+                "line": 14,
+                "character": 7
+              },
+              "end": {
+                "line": 14,
+                "character": 42
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./constants.ts",
+          "code": {
+            "specifier": "https://jsr.io/@fresh/core/2.0.0-alpha.17/src/constants.ts",
+            "span": {
+              "start": {
+                "line": 15,
+                "character": 38
+              },
+              "end": {
+                "line": 15,
+                "character": 54
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./runtime/shared.ts",
+          "code": {
+            "specifier": "https://jsr.io/@fresh/core/2.0.0-alpha.17/src/runtime/shared.ts",
+            "span": {
+              "start": {
+                "line": 16,
+                "character": 22
+              },
+              "end": {
+                "line": 16,
+                "character": 43
+              }
+            }
+          }
+        }
+      ],
+      "local": "/Users/marvinh/Library/Caches/deno/deps/https/jsr.io/344f8f037d2daf985f20b5b91cb23c200a5529adc6d2a55494a1cd85d21a0ca9",
+      "emit": "/Users/marvinh/Library/Caches/deno/gen/https/jsr.io/344f8f037d2daf985f20b5b91cb23c200a5529adc6d2a55494a1cd85d21a0ca9.js",
+      "map": null,
+      "size": 7495,
+      "mediaType": "TypeScript",
+      "specifier": "https://jsr.io/@fresh/core/2.0.0-alpha.17/src/context.ts"
+    },
+    {
+      "kind": "esm",
+      "dependencies": [
+        {
+          "specifier": "preact/jsx-runtime",
+          "code": {
+            "specifier": "npm:/preact@^10.22.0/jsx-runtime",
+            "span": {
+              "start": {
+                "line": 0,
+                "character": 0
+              },
+              "end": {
+                "line": 0,
+                "character": 0
+              }
+            }
+          }
+        },
+        {
+          "specifier": "jsr:@std/path@^0.225.2",
+          "code": {
+            "specifier": "jsr:@std/path@^0.225.2",
+            "span": {
+              "start": {
+                "line": 0,
+                "character": 22
+              },
+              "end": {
+                "line": 0,
+                "character": 46
+              }
+            }
+          }
+        },
+        {
+          "specifier": "jsr:/@std/fmt@^0.225.3/colors",
+          "code": {
+            "specifier": "jsr:/@std/fmt@^0.225.3/colors",
+            "span": {
+              "start": {
+                "line": 1,
+                "character": 24
+              },
+              "end": {
+                "line": 1,
+                "character": 55
+              }
+            }
+          }
+        }
+      ],
+      "local": "/Users/marvinh/Library/Caches/deno/deps/https/jsr.io/82844eaf880c06ccd61053053c2d86e8fa92bf6d0a1619e93dc5e5e7f781e1a7",
+      "emit": "/Users/marvinh/Library/Caches/deno/gen/https/jsr.io/82844eaf880c06ccd61053053c2d86e8fa92bf6d0a1619e93dc5e5e7f781e1a7.js",
+      "map": null,
+      "size": 3442,
+      "mediaType": "TSX",
+      "specifier": "https://jsr.io/@fresh/core/2.0.0-alpha.17/src/dev/middlewares/error_overlay/code_frame.tsx"
+    },
+    {
+      "kind": "esm",
+      "local": "/Users/marvinh/Library/Caches/deno/deps/https/jsr.io/b3f0fbec49ad65afafea8c3e69149460e107324c9095ff3a251bc5991a16168f",
+      "emit": "/Users/marvinh/Library/Caches/deno/gen/https/jsr.io/b3f0fbec49ad65afafea8c3e69149460e107324c9095ff3a251bc5991a16168f.js",
+      "map": null,
+      "size": 3558,
+      "mediaType": "TypeScript",
+      "specifier": "https://jsr.io/@fresh/core/2.0.0-alpha.17/src/error.ts"
+    },
+    {
+      "kind": "esm",
+      "local": "/Users/marvinh/Library/Caches/deno/deps/https/jsr.io/92ca4f17c4a7dc9e77dd061eb01c506cf617338327b60102bce4f7b153e629e0",
+      "emit": "/Users/marvinh/Library/Caches/deno/gen/https/jsr.io/92ca4f17c4a7dc9e77dd061eb01c506cf617338327b60102bce4f7b153e629e0.js",
+      "map": null,
+      "size": 192,
+      "mediaType": "TypeScript",
+      "specifier": "https://jsr.io/@fresh/core/2.0.0-alpha.17/src/jsonify/constants.ts"
+    },
+    {
+      "kind": "esm",
+      "dependencies": [
+        {
+          "specifier": "./constants.ts",
+          "code": {
+            "specifier": "https://jsr.io/@fresh/core/2.0.0-alpha.17/src/jsonify/constants.ts",
+            "span": {
+              "start": {
+                "line": 8,
+                "character": 7
+              },
+              "end": {
+                "line": 8,
+                "character": 23
+              }
+            }
+          }
+        }
+      ],
+      "size": 4995,
+      "mediaType": "TypeScript",
+      "specifier": "https://jsr.io/@fresh/core/2.0.0-alpha.17/src/jsonify/parse.ts"
+    },
+    {
+      "kind": "esm",
+      "dependencies": [
+        {
+          "specifier": "./constants.ts",
+          "code": {
+            "specifier": "https://jsr.io/@fresh/core/2.0.0-alpha.17/src/jsonify/constants.ts",
+            "span": {
+              "start": {
+                "line": 7,
+                "character": 7
+              },
+              "end": {
+                "line": 7,
+                "character": 23
+              }
+            }
+          }
+        }
+      ],
+      "local": "/Users/marvinh/Library/Caches/deno/deps/https/jsr.io/9fb4d3c0b5b76b25b66c9986a90394317e2779567f026c2dae90ab1bb9ada781",
+      "emit": "/Users/marvinh/Library/Caches/deno/gen/https/jsr.io/9fb4d3c0b5b76b25b66c9986a90394317e2779567f026c2dae90ab1bb9ada781.js",
+      "map": null,
+      "size": 5267,
+      "mediaType": "TypeScript",
+      "specifier": "https://jsr.io/@fresh/core/2.0.0-alpha.17/src/jsonify/stringify.ts"
+    },
+    {
+      "kind": "esm",
+      "dependencies": [
+        {
+          "specifier": "jsr:/@std/encoding@^1.0.0-rc.1/hex",
+          "code": {
+            "specifier": "jsr:/@std/encoding@^1.0.0-rc.1/hex",
+            "span": {
+              "start": {
+                "line": 0,
+                "character": 26
+              },
+              "end": {
+                "line": 0,
+                "character": 62
+              }
+            }
+          }
+        }
+      ],
+      "local": "/Users/marvinh/Library/Caches/deno/deps/https/jsr.io/1cb5802af3a0b6c74f64d56e73fe889d9ee93f9be366294b5a7b05329605015d",
+      "emit": "/Users/marvinh/Library/Caches/deno/gen/https/jsr.io/1cb5802af3a0b6c74f64d56e73fe889d9ee93f9be366294b5a7b05329605015d.js",
+      "map": null,
+      "size": 467,
+      "mediaType": "TypeScript",
+      "specifier": "https://jsr.io/@fresh/core/2.0.0-alpha.17/src/runtime/build_id.ts"
+    },
+    {
+      "kind": "esm",
+      "dependencies": [
+        {
+          "specifier": "preact/jsx-runtime",
+          "code": {
+            "specifier": "npm:/preact@^10.22.0/jsx-runtime",
+            "span": {
+              "start": {
+                "line": 0,
+                "character": 0
+              },
+              "end": {
+                "line": 0,
+                "character": 0
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./polyfills.ts",
+          "code": {
+            "specifier": "https://jsr.io/@fresh/core/2.0.0-alpha.17/src/runtime/client/polyfills.ts",
+            "span": {
+              "start": {
+                "line": 0,
+                "character": 7
+              },
+              "end": {
+                "line": 0,
+                "character": 23
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./preact_hooks_client.ts",
+          "code": {
+            "specifier": "https://jsr.io/@fresh/core/2.0.0-alpha.17/src/runtime/client/preact_hooks_client.ts",
+            "span": {
+              "start": {
+                "line": 1,
+                "character": 7
+              },
+              "end": {
+                "line": 1,
+                "character": 33
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./partials.ts",
+          "code": {
+            "specifier": "https://jsr.io/@fresh/core/2.0.0-alpha.17/src/runtime/client/partials.ts",
+            "span": {
+              "start": {
+                "line": 2,
+                "character": 7
+              },
+              "end": {
+                "line": 2,
+                "character": 22
+              }
+            }
+          }
+        },
+        {
+          "specifier": "../shared.ts",
+          "code": {
+            "specifier": "https://jsr.io/@fresh/core/2.0.0-alpha.17/src/runtime/shared.ts",
+            "span": {
+              "start": {
+                "line": 3,
+                "character": 62
+              },
+              "end": {
+                "line": 3,
+                "character": 76
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./reviver.ts",
+          "code": {
+            "specifier": "https://jsr.io/@fresh/core/2.0.0-alpha.17/src/runtime/client/reviver.ts",
+            "span": {
+              "start": {
+                "line": 4,
+                "character": 29
+              },
+              "end": {
+                "line": 4,
+                "character": 43
+              }
+            }
+          }
+        }
+      ],
+      "size": 207,
+      "mediaType": "TSX",
+      "specifier": "https://jsr.io/@fresh/core/2.0.0-alpha.17/src/runtime/client/mod.tsx"
+    },
+    {
+      "kind": "esm",
+      "dependencies": [
+        {
+          "specifier": "npm:preact@^10.22.0",
+          "code": {
+            "specifier": "npm:preact@^10.22.0",
+            "span": {
+              "start": {
+                "line": 0,
+                "character": 42
+              },
+              "end": {
+                "line": 0,
+                "character": 63
+              }
+            }
+          },
+          "npmPackage": "preact@10.22.0"
+        },
+        {
+          "specifier": "../shared_internal.tsx",
+          "code": {
+            "specifier": "https://jsr.io/@fresh/core/2.0.0-alpha.17/src/runtime/shared_internal.tsx",
+            "span": {
+              "start": {
+                "line": 8,
+                "character": 7
+              },
+              "end": {
+                "line": 8,
+                "character": 31
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./reviver.ts",
+          "code": {
+            "specifier": "https://jsr.io/@fresh/core/2.0.0-alpha.17/src/runtime/client/reviver.ts",
+            "span": {
+              "start": {
+                "line": 19,
+                "character": 7
+              },
+              "end": {
+                "line": 19,
+                "character": 21
+              }
+            }
+          }
+        },
+        {
+          "specifier": "../server/preact_hooks.tsx",
+          "type": {
+            "specifier": "https://jsr.io/@fresh/core/2.0.0-alpha.17/src/runtime/server/preact_hooks.tsx",
+            "span": {
+              "start": {
+                "line": 21,
+                "character": 38
+              },
+              "end": {
+                "line": 21,
+                "character": 66
+              }
+            }
+          }
+        },
+        {
+          "specifier": "../../jsonify/parse.ts",
+          "code": {
+            "specifier": "https://jsr.io/@fresh/core/2.0.0-alpha.17/src/jsonify/parse.ts",
+            "span": {
+              "start": {
+                "line": 22,
+                "character": 22
+              },
+              "end": {
+                "line": 22,
+                "character": 46
+              }
+            }
+          }
+        },
+        {
+          "specifier": "../../constants.ts",
+          "code": {
+            "specifier": "https://jsr.io/@fresh/core/2.0.0-alpha.17/src/constants.ts",
+            "span": {
+              "start": {
+                "line": 23,
+                "character": 32
+              },
+              "end": {
+                "line": 23,
+                "character": 52
+              }
+            }
+          }
+        }
+      ],
+      "size": 15567,
+      "mediaType": "TypeScript",
+      "specifier": "https://jsr.io/@fresh/core/2.0.0-alpha.17/src/runtime/client/partials.ts"
+    },
+    {
+      "kind": "esm",
+      "size": 231,
+      "mediaType": "TypeScript",
+      "specifier": "https://jsr.io/@fresh/core/2.0.0-alpha.17/src/runtime/client/polyfills.ts"
+    },
+    {
+      "kind": "esm",
+      "dependencies": [
+        {
+          "specifier": "npm:preact@^10.22.0",
+          "code": {
+            "specifier": "npm:preact@^10.22.0",
+            "span": {
+              "start": {
+                "line": 0,
+                "character": 24
+              },
+              "end": {
+                "line": 0,
+                "character": 45
+              }
+            }
+          },
+          "npmPackage": "preact@10.22.0"
+        },
+        {
+          "specifier": "../shared_internal.tsx",
+          "code": {
+            "specifier": "https://jsr.io/@fresh/core/2.0.0-alpha.17/src/runtime/shared_internal.tsx",
+            "span": {
+              "start": {
+                "line": 1,
+                "character": 50
+              },
+              "end": {
+                "line": 1,
+                "character": 74
+              }
+            }
+          }
+        },
+        {
+          "specifier": "../build_id.ts",
+          "code": {
+            "specifier": "https://jsr.io/@fresh/core/2.0.0-alpha.17/src/runtime/build_id.ts",
+            "span": {
+              "start": {
+                "line": 2,
+                "character": 25
+              },
+              "end": {
+                "line": 2,
+                "character": 41
+              }
+            }
+          }
+        }
+      ],
+      "size": 543,
+      "mediaType": "TypeScript",
+      "specifier": "https://jsr.io/@fresh/core/2.0.0-alpha.17/src/runtime/client/preact_hooks_client.ts"
+    },
+    {
+      "kind": "esm",
+      "dependencies": [
+        {
+          "specifier": "npm:preact@^10.22.0",
+          "code": {
+            "specifier": "npm:preact@^10.22.0",
+            "span": {
+              "start": {
+                "line": 8,
+                "character": 7
+              },
+              "end": {
+                "line": 8,
+                "character": 28
+              }
+            }
+          },
+          "npmPackage": "preact@10.22.0"
+        },
+        {
+          "specifier": "../../jsonify/parse.ts",
+          "code": {
+            "specifier": "https://jsr.io/@fresh/core/2.0.0-alpha.17/src/jsonify/parse.ts",
+            "span": {
+              "start": {
+                "line": 9,
+                "character": 41
+              },
+              "end": {
+                "line": 9,
+                "character": 65
+              }
+            }
+          }
+        },
+        {
+          "specifier": "npm:@preact/signals@^1.2.3",
+          "code": {
+            "specifier": "npm:@preact/signals@^1.2.3",
+            "span": {
+              "start": {
+                "line": 10,
+                "character": 23
+              },
+              "end": {
+                "line": 10,
+                "character": 51
+              }
+            }
+          },
+          "npmPackage": "@preact/signals@1.2.3_preact@10.22.0"
+        },
+        {
+          "specifier": "../shared_internal.tsx",
+          "code": {
+            "specifier": "https://jsr.io/@fresh/core/2.0.0-alpha.17/src/runtime/shared_internal.tsx",
+            "span": {
+              "start": {
+                "line": 11,
+                "character": 44
+              },
+              "end": {
+                "line": 11,
+                "character": 68
+              }
+            }
+          }
+        }
+      ],
+      "size": 16399,
+      "mediaType": "TypeScript",
+      "specifier": "https://jsr.io/@fresh/core/2.0.0-alpha.17/src/runtime/client/reviver.ts"
+    },
+    {
+      "kind": "esm",
+      "size": 87,
+      "mediaType": "TypeScript",
+      "specifier": "https://jsr.io/@fresh/core/2.0.0-alpha.17/src/runtime/server/mod.ts"
+    },
+    {
+      "kind": "esm",
+      "dependencies": [
+        {
+          "specifier": "preact/jsx-runtime",
+          "code": {
+            "specifier": "npm:/preact@^10.22.0/jsx-runtime",
+            "span": {
+              "start": {
+                "line": 0,
+                "character": 0
+              },
+              "end": {
+                "line": 0,
+                "character": 0
+              }
+            }
+          }
+        },
+        {
+          "specifier": "npm:preact@^10.22.0",
+          "code": {
+            "specifier": "npm:preact@^10.22.0",
+            "span": {
+              "start": {
+                "line": 10,
+                "character": 7
+              },
+              "end": {
+                "line": 10,
+                "character": 28
+              }
+            }
+          },
+          "npmPackage": "preact@10.22.0"
+        },
+        {
+          "specifier": "npm:@preact/signals@^1.2.3",
+          "type": {
+            "specifier": "npm:@preact/signals@^1.2.3",
+            "span": {
+              "start": {
+                "line": 11,
+                "character": 28
+              },
+              "end": {
+                "line": 11,
+                "character": 56
+              }
+            }
+          },
+          "npmPackage": "@preact/signals@1.2.3_preact@10.22.0"
+        },
+        {
+          "specifier": "../../jsonify/stringify.ts",
+          "code": {
+            "specifier": "https://jsr.io/@fresh/core/2.0.0-alpha.17/src/jsonify/stringify.ts",
+            "span": {
+              "start": {
+                "line": 15,
+                "character": 26
+              },
+              "end": {
+                "line": 15,
+                "character": 54
+              }
+            }
+          },
+          "type": {
+            "specifier": "https://jsr.io/@fresh/core/2.0.0-alpha.17/src/jsonify/stringify.ts",
+            "span": {
+              "start": {
+                "line": 12,
+                "character": 34
+              },
+              "end": {
+                "line": 12,
+                "character": 62
+              }
+            }
+          }
+        },
+        {
+          "specifier": "../../context.ts",
+          "type": {
+            "specifier": "https://jsr.io/@fresh/core/2.0.0-alpha.17/src/context.ts",
+            "span": {
+              "start": {
+                "line": 13,
+                "character": 31
+              },
+              "end": {
+                "line": 13,
+                "character": 49
+              }
+            }
+          }
+        },
+        {
+          "specifier": "../shared.ts",
+          "code": {
+            "specifier": "https://jsr.io/@fresh/core/2.0.0-alpha.17/src/runtime/shared.ts",
+            "span": {
+              "start": {
+                "line": 14,
+                "character": 50
+              },
+              "end": {
+                "line": 14,
+                "character": 64
+              }
+            }
+          }
+        },
+        {
+          "specifier": "../shared_internal.tsx",
+          "code": {
+            "specifier": "https://jsr.io/@fresh/core/2.0.0-alpha.17/src/runtime/shared_internal.tsx",
+            "span": {
+              "start": {
+                "line": 24,
+                "character": 7
+              },
+              "end": {
+                "line": 24,
+                "character": 31
+              }
+            }
+          }
+        },
+        {
+          "specifier": "../../build_cache.ts",
+          "type": {
+            "specifier": "https://jsr.io/@fresh/core/2.0.0-alpha.17/src/build_cache.ts",
+            "span": {
+              "start": {
+                "line": 25,
+                "character": 32
+              },
+              "end": {
+                "line": 25,
+                "character": 54
+              }
+            }
+          }
+        },
+        {
+          "specifier": "../build_id.ts",
+          "code": {
+            "specifier": "https://jsr.io/@fresh/core/2.0.0-alpha.17/src/runtime/build_id.ts",
+            "span": {
+              "start": {
+                "line": 26,
+                "character": 25
+              },
+              "end": {
+                "line": 26,
+                "character": 41
+              }
+            }
+          }
+        },
+        {
+          "specifier": "../../constants.ts",
+          "code": {
+            "specifier": "https://jsr.io/@fresh/core/2.0.0-alpha.17/src/constants.ts",
+            "span": {
+              "start": {
+                "line": 27,
+                "character": 38
+              },
+              "end": {
+                "line": 27,
+                "character": 58
+              }
+            }
+          }
+        },
+        {
+          "specifier": "jsr:/@std/fmt@^0.225.3/colors",
+          "code": {
+            "specifier": "jsr:/@std/fmt@^0.225.3/colors",
+            "span": {
+              "start": {
+                "line": 28,
+                "character": 24
+              },
+              "end": {
+                "line": 28,
+                "character": 55
+              }
+            }
+          }
+        },
+        {
+          "specifier": "jsr:@std/html@^0.224.2",
+          "code": {
+            "specifier": "jsr:@std/html@^0.224.2",
+            "span": {
+              "start": {
+                "line": 29,
+                "character": 37
+              },
+              "end": {
+                "line": 29,
+                "character": 61
+              }
+            }
+          }
+        },
+        {
+          "specifier": "../../error.ts",
+          "code": {
+            "specifier": "https://jsr.io/@fresh/core/2.0.0-alpha.17/src/error.ts",
+            "span": {
+              "start": {
+                "line": 30,
+                "character": 26
+              },
+              "end": {
+                "line": 30,
+                "character": 42
+              }
+            }
+          }
+        },
+        {
+          "specifier": "../../dev/middlewares/error_overlay/code_frame.tsx",
+          "code": {
+            "specifier": "https://jsr.io/@fresh/core/2.0.0-alpha.17/src/dev/middlewares/error_overlay/code_frame.tsx",
+            "span": {
+              "start": {
+                "line": 31,
+                "character": 29
+              },
+              "end": {
+                "line": 31,
+                "character": 81
+              }
+            }
+          }
+        }
+      ],
+      "local": "/Users/marvinh/Library/Caches/deno/deps/https/jsr.io/c22093eab190de766590f03871a13cd020f15c82dbcca07ff6e85f3baeb5fcfd",
+      "emit": "/Users/marvinh/Library/Caches/deno/gen/https/jsr.io/c22093eab190de766590f03871a13cd020f15c82dbcca07ff6e85f3baeb5fcfd.js",
+      "map": null,
+      "size": 14813,
+      "mediaType": "TSX",
+      "specifier": "https://jsr.io/@fresh/core/2.0.0-alpha.17/src/runtime/server/preact_hooks.tsx"
+    },
+    {
+      "kind": "esm",
+      "dependencies": [
+        {
+          "specifier": "npm:preact@^10.22.0",
+          "type": {
+            "specifier": "npm:preact@^10.22.0",
+            "span": {
+              "start": {
+                "line": 0,
+                "character": 46
+              },
+              "end": {
+                "line": 0,
+                "character": 67
+              }
+            }
+          },
+          "npmPackage": "preact@10.22.0"
+        },
+        {
+          "specifier": "./build_id.ts",
+          "code": {
+            "specifier": "https://jsr.io/@fresh/core/2.0.0-alpha.17/src/runtime/build_id.ts",
+            "span": {
+              "start": {
+                "line": 1,
+                "character": 25
+              },
+              "end": {
+                "line": 1,
+                "character": 40
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./shared_internal.tsx",
+          "code": {
+            "specifier": "https://jsr.io/@fresh/core/2.0.0-alpha.17/src/runtime/shared_internal.tsx",
+            "span": {
+              "start": {
+                "line": 2,
+                "character": 51
+              },
+              "end": {
+                "line": 2,
+                "character": 74
+              }
+            }
+          }
+        }
+      ],
+      "local": "/Users/marvinh/Library/Caches/deno/deps/https/jsr.io/92741e9cb2940e6f3cfed0b17162bc7aca893d8a150aaf80a55b8f3faa80c94a",
+      "emit": "/Users/marvinh/Library/Caches/deno/gen/https/jsr.io/92741e9cb2940e6f3cfed0b17162bc7aca893d8a150aaf80a55b8f3faa80c94a.js",
+      "map": null,
+      "size": 1680,
+      "mediaType": "TypeScript",
+      "specifier": "https://jsr.io/@fresh/core/2.0.0-alpha.17/src/runtime/shared.ts"
+    },
+    {
+      "kind": "esm",
+      "dependencies": [
+        {
+          "specifier": "preact/jsx-runtime",
+          "code": {
+            "specifier": "npm:/preact@^10.22.0/jsx-runtime",
+            "span": {
+              "start": {
+                "line": 0,
+                "character": 0
+              },
+              "end": {
+                "line": 0,
+                "character": 0
+              }
+            }
+          }
+        },
+        {
+          "specifier": "npm:preact@^10.22.0",
+          "type": {
+            "specifier": "npm:preact@^10.22.0",
+            "span": {
+              "start": {
+                "line": 0,
+                "character": 27
+              },
+              "end": {
+                "line": 0,
+                "character": 48
+              }
+            }
+          },
+          "npmPackage": "preact@10.22.0"
+        }
+      ],
+      "local": "/Users/marvinh/Library/Caches/deno/deps/https/jsr.io/d9f8e9e06aa94a33cc9c3c220bdc5da92f50a628727de1171bbc8a2c468bc5e2",
+      "emit": "/Users/marvinh/Library/Caches/deno/gen/https/jsr.io/d9f8e9e06aa94a33cc9c3c220bdc5da92f50a628727de1171bbc8a2c468bc5e2.js",
+      "map": null,
+      "size": 3814,
+      "mediaType": "TSX",
+      "specifier": "https://jsr.io/@fresh/core/2.0.0-alpha.17/src/runtime/shared_internal.tsx"
+    },
+    {
+      "kind": "esm",
+      "dependencies": [
+        {
+          "specifier": "./assertion_error.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/assert/0.226.0/assertion_error.ts",
+            "span": {
+              "start": {
+                "line": 2,
+                "character": 31
+              },
+              "end": {
+                "line": 2,
+                "character": 53
+              }
+            }
+          }
+        }
+      ],
+      "local": "/Users/marvinh/Library/Caches/deno/deps/https/jsr.io/588e7d87f5f4ce2a157642afe3a46ce8a1bbd5f7fedbc3c29b4368589d7676eb",
+      "emit": "/Users/marvinh/Library/Caches/deno/gen/https/jsr.io/588e7d87f5f4ce2a157642afe3a46ce8a1bbd5f7fedbc3c29b4368589d7676eb.js",
+      "map": null,
+      "size": 688,
+      "mediaType": "TypeScript",
+      "specifier": "https://jsr.io/@std/assert/0.226.0/assert.ts"
+    },
+    {
+      "kind": "esm",
+      "local": "/Users/marvinh/Library/Caches/deno/deps/https/jsr.io/4ce9e0594058bc3992b92a2e9356fc3a63be98956443965d24028964e8d67668",
+      "emit": "/Users/marvinh/Library/Caches/deno/gen/https/jsr.io/4ce9e0594058bc3992b92a2e9356fc3a63be98956443965d24028964e8d67668.js",
+      "map": null,
+      "size": 721,
+      "mediaType": "TypeScript",
+      "specifier": "https://jsr.io/@std/assert/0.226.0/assertion_error.ts"
+    },
+    {
+      "kind": "esm",
+      "local": "/Users/marvinh/Library/Caches/deno/deps/https/jsr.io/34bf85d6d6f7877792c825bb08dae1fe0d59266fa635e98af126e348e89c4f39",
+      "emit": "/Users/marvinh/Library/Caches/deno/gen/https/jsr.io/34bf85d6d6f7877792c825bb08dae1fe0d59266fa635e98af126e348e89c4f39.js",
+      "map": null,
+      "size": 798,
+      "mediaType": "TypeScript",
+      "specifier": "https://jsr.io/@std/encoding/1.0.0-rc.2/_validate_binary_like.ts"
+    },
+    {
+      "kind": "esm",
+      "dependencies": [
+        {
+          "specifier": "./_validate_binary_like.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/encoding/1.0.0-rc.2/_validate_binary_like.ts",
+            "span": {
+              "start": {
+                "line": 28,
+                "character": 35
+              },
+              "end": {
+                "line": 28,
+                "character": 63
+              }
+            }
+          }
+        }
+      ],
+      "local": "/Users/marvinh/Library/Caches/deno/deps/https/jsr.io/915ac5b37f2a8af4df5bd43448453f82230f2be6031da34e7b489be2989f5c74",
+      "emit": "/Users/marvinh/Library/Caches/deno/gen/https/jsr.io/915ac5b37f2a8af4df5bd43448453f82230f2be6031da34e7b489be2989f5c74.js",
+      "map": null,
+      "size": 3056,
+      "mediaType": "TypeScript",
+      "specifier": "https://jsr.io/@std/encoding/1.0.0-rc.2/hex.ts"
+    },
+    {
+      "kind": "esm",
+      "local": "/Users/marvinh/Library/Caches/deno/deps/https/jsr.io/384d7b1c0898821f9154e5e9a11fb72d8ff33792718ea3fe083f58e1ae98bf2e",
+      "emit": "/Users/marvinh/Library/Caches/deno/gen/https/jsr.io/384d7b1c0898821f9154e5e9a11fb72d8ff33792718ea3fe083f58e1ae98bf2e.js",
+      "map": null,
+      "size": 22091,
+      "mediaType": "TypeScript",
+      "specifier": "https://jsr.io/@std/fmt/0.225.4/colors.ts"
+    },
+    {
+      "kind": "esm",
+      "local": "/Users/marvinh/Library/Caches/deno/deps/https/jsr.io/25b21ffcb70db2b72d4f5d55b2f8d587552fc1eb3fcd8386afd4f195dd3b84ee",
+      "emit": "/Users/marvinh/Library/Caches/deno/gen/https/jsr.io/25b21ffcb70db2b72d4f5d55b2f8d587552fc1eb3fcd8386afd4f195dd3b84ee.js",
+      "map": null,
+      "size": 3458,
+      "mediaType": "TypeScript",
+      "specifier": "https://jsr.io/@std/html/0.224.2/entities.ts"
+    },
+    {
+      "kind": "esm",
+      "dependencies": [
+        {
+          "specifier": "./entities.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/html/0.224.2/entities.ts",
+            "span": {
+              "start": {
+                "line": 17,
+                "character": 14
+              },
+              "end": {
+                "line": 17,
+                "character": 29
+              }
+            }
+          }
+        }
+      ],
+      "local": "/Users/marvinh/Library/Caches/deno/deps/https/jsr.io/50a534b303fa992b454e78ee9839b1f7cf16bc267e44c51215d14fb29245b1b9",
+      "emit": "/Users/marvinh/Library/Caches/deno/gen/https/jsr.io/50a534b303fa992b454e78ee9839b1f7cf16bc267e44c51215d14fb29245b1b9.js",
+      "map": null,
+      "size": 495,
+      "mediaType": "TypeScript",
+      "specifier": "https://jsr.io/@std/html/0.224.2/mod.ts"
+    },
+    {
+      "kind": "esm",
+      "local": "/Users/marvinh/Library/Caches/deno/deps/https/jsr.io/87fc45f19971228c4ce7ea2d31abaeba9290410aeca7e6a01ebf93bbc640bd5b",
+      "emit": "/Users/marvinh/Library/Caches/deno/gen/https/jsr.io/87fc45f19971228c4ce7ea2d31abaeba9290410aeca7e6a01ebf93bbc640bd5b.js",
+      "map": null,
+      "size": 307,
+      "mediaType": "TypeScript",
+      "specifier": "https://jsr.io/@std/path/0.225.2/_common/assert_path.ts"
+    },
+    {
+      "kind": "esm",
+      "dependencies": [
+        {
+          "specifier": "./assert_path.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/_common/assert_path.ts",
+            "span": {
+              "start": {
+                "line": 3,
+                "character": 27
+              },
+              "end": {
+                "line": 3,
+                "character": 45
+              }
+            }
+          }
+        }
+      ],
+      "local": "/Users/marvinh/Library/Caches/deno/deps/https/jsr.io/dbd5a5a29dbbc6c58aff6fd8e6d19b795ec71a87b79e634969a3f72d43155291",
+      "emit": "/Users/marvinh/Library/Caches/deno/gen/https/jsr.io/dbd5a5a29dbbc6c58aff6fd8e6d19b795ec71a87b79e634969a3f72d43155291.js",
+      "map": null,
+      "size": 1262,
+      "mediaType": "TypeScript",
+      "specifier": "https://jsr.io/@std/path/0.225.2/_common/basename.ts"
+    },
+    {
+      "kind": "esm",
+      "local": "/Users/marvinh/Library/Caches/deno/deps/https/jsr.io/dd8d95bbbb1077e22346f629fd4924458dafed4f2698c950564dc4631888c65b",
+      "emit": "/Users/marvinh/Library/Caches/deno/gen/https/jsr.io/dd8d95bbbb1077e22346f629fd4924458dafed4f2698c950564dc4631888c65b.js",
+      "map": null,
+      "size": 719,
+      "mediaType": "TypeScript",
+      "specifier": "https://jsr.io/@std/path/0.225.2/_common/common.ts"
+    },
+    {
+      "kind": "esm",
+      "local": "/Users/marvinh/Library/Caches/deno/deps/https/jsr.io/44129a7f246fc6d7625910aff23b5fd1533066f18bfd102fe5247c6bdf9472fc",
+      "emit": "/Users/marvinh/Library/Caches/deno/gen/https/jsr.io/44129a7f246fc6d7625910aff23b5fd1533066f18bfd102fe5247c6bdf9472fc.js",
+      "map": null,
+      "size": 2020,
+      "mediaType": "TypeScript",
+      "specifier": "https://jsr.io/@std/path/0.225.2/_common/constants.ts"
+    },
+    {
+      "kind": "esm",
+      "dependencies": [
+        {
+          "specifier": "./assert_path.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/_common/assert_path.ts",
+            "span": {
+              "start": {
+                "line": 3,
+                "character": 27
+              },
+              "end": {
+                "line": 3,
+                "character": 45
+              }
+            }
+          }
+        }
+      ],
+      "local": "/Users/marvinh/Library/Caches/deno/deps/https/jsr.io/f03b2aebe0f124c1363944b665750139fb01e0b91eb78a26e0ff8bae63b7d88d",
+      "emit": "/Users/marvinh/Library/Caches/deno/gen/https/jsr.io/f03b2aebe0f124c1363944b665750139fb01e0b91eb78a26e0ff8bae63b7d88d.js",
+      "map": null,
+      "size": 263,
+      "mediaType": "TypeScript",
+      "specifier": "https://jsr.io/@std/path/0.225.2/_common/dirname.ts"
+    },
+    {
+      "kind": "esm",
+      "dependencies": [
+        {
+          "specifier": "../_interface.ts",
+          "type": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/_interface.ts",
+            "span": {
+              "start": {
+                "line": 3,
+                "character": 43
+              },
+              "end": {
+                "line": 3,
+                "character": 61
+              }
+            }
+          }
+        }
+      ],
+      "local": "/Users/marvinh/Library/Caches/deno/deps/https/jsr.io/76b33586da9a877a1edd928d0659e315319ce3e7a06716647185a6e6375d532a",
+      "emit": "/Users/marvinh/Library/Caches/deno/gen/https/jsr.io/76b33586da9a877a1edd928d0659e315319ce3e7a06716647185a6e6375d532a.js",
+      "map": null,
+      "size": 827,
+      "mediaType": "TypeScript",
+      "specifier": "https://jsr.io/@std/path/0.225.2/_common/format.ts"
+    },
+    {
+      "kind": "esm",
+      "local": "/Users/marvinh/Library/Caches/deno/deps/https/jsr.io/15bc46a9a34e2b8af51ab22569b3a987d877e44c05868263adea5c17432a3645",
+      "emit": "/Users/marvinh/Library/Caches/deno/gen/https/jsr.io/15bc46a9a34e2b8af51ab22569b3a987d877e44c05868263adea5c17432a3645.js",
+      "map": null,
+      "size": 312,
+      "mediaType": "TypeScript",
+      "specifier": "https://jsr.io/@std/path/0.225.2/_common/from_file_url.ts"
+    },
+    {
+      "kind": "esm",
+      "local": "/Users/marvinh/Library/Caches/deno/deps/https/jsr.io/175b569f564873d89ea19f2a7e7f7ca5a195fe1cc8bdd6357416ddf3bd3275b7",
+      "emit": "/Users/marvinh/Library/Caches/deno/gen/https/jsr.io/175b569f564873d89ea19f2a7e7f7ca5a195fe1cc8bdd6357416ddf3bd3275b7.js",
+      "map": null,
+      "size": 7528,
+      "mediaType": "TypeScript",
+      "specifier": "https://jsr.io/@std/path/0.225.2/_common/glob_to_reg_exp.ts"
+    },
+    {
+      "kind": "esm",
+      "dependencies": [
+        {
+          "specifier": "./assert_path.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/_common/assert_path.ts",
+            "span": {
+              "start": {
+                "line": 3,
+                "character": 27
+              },
+              "end": {
+                "line": 3,
+                "character": 45
+              }
+            }
+          }
+        }
+      ],
+      "local": "/Users/marvinh/Library/Caches/deno/deps/https/jsr.io/03509a91004557b5b2100c9db6bea956213e3e098af54b88c9165891a6657e03",
+      "emit": "/Users/marvinh/Library/Caches/deno/gen/https/jsr.io/03509a91004557b5b2100c9db6bea956213e3e098af54b88c9165891a6657e03.js",
+      "map": null,
+      "size": 263,
+      "mediaType": "TypeScript",
+      "specifier": "https://jsr.io/@std/path/0.225.2/_common/normalize.ts"
+    },
+    {
+      "kind": "esm",
+      "dependencies": [
+        {
+          "specifier": "./constants.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/_common/constants.ts",
+            "span": {
+              "start": {
+                "line": 5,
+                "character": 45
+              },
+              "end": {
+                "line": 5,
+                "character": 61
+              }
+            }
+          }
+        }
+      ],
+      "local": "/Users/marvinh/Library/Caches/deno/deps/https/jsr.io/1b8a4ec0b51bac7a022057f1fd1203f81c705204e7c422776aa5de4580318b48",
+      "emit": "/Users/marvinh/Library/Caches/deno/gen/https/jsr.io/1b8a4ec0b51bac7a022057f1fd1203f81c705204e7c422776aa5de4580318b48.js",
+      "map": null,
+      "size": 2301,
+      "mediaType": "TypeScript",
+      "specifier": "https://jsr.io/@std/path/0.225.2/_common/normalize_string.ts"
+    },
+    {
+      "kind": "esm",
+      "dependencies": [
+        {
+          "specifier": "./assert_path.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/_common/assert_path.ts",
+            "span": {
+              "start": {
+                "line": 3,
+                "character": 27
+              },
+              "end": {
+                "line": 3,
+                "character": 45
+              }
+            }
+          }
+        }
+      ],
+      "local": "/Users/marvinh/Library/Caches/deno/deps/https/jsr.io/72dfc10e76f1265efd286602afeaa8f8ecf35a0a3f7a74b41d42df02931dee24",
+      "emit": "/Users/marvinh/Library/Caches/deno/gen/https/jsr.io/72dfc10e76f1265efd286602afeaa8f8ecf35a0a3f7a74b41d42df02931dee24.js",
+      "map": null,
+      "size": 287,
+      "mediaType": "TypeScript",
+      "specifier": "https://jsr.io/@std/path/0.225.2/_common/relative.ts"
+    },
+    {
+      "kind": "esm",
+      "local": "/Users/marvinh/Library/Caches/deno/deps/https/jsr.io/e654d93520a1eb3c8bd9668ca962f46d91c867bdb32a1de2e8e9b76c55adf260",
+      "emit": "/Users/marvinh/Library/Caches/deno/gen/https/jsr.io/e654d93520a1eb3c8bd9668ca962f46d91c867bdb32a1de2e8e9b76c55adf260.js",
+      "map": null,
+      "size": 592,
+      "mediaType": "TypeScript",
+      "specifier": "https://jsr.io/@std/path/0.225.2/_common/strip_trailing_separators.ts"
+    },
+    {
+      "kind": "esm",
+      "local": "/Users/marvinh/Library/Caches/deno/deps/https/jsr.io/29f40ac619d8e08cbe550235de6f9f36d70aaab4c1f0e14bd328221f785c2ad6",
+      "emit": "/Users/marvinh/Library/Caches/deno/gen/https/jsr.io/29f40ac619d8e08cbe550235de6f9f36d70aaab4c1f0e14bd328221f785c2ad6.js",
+      "map": null,
+      "size": 440,
+      "mediaType": "TypeScript",
+      "specifier": "https://jsr.io/@std/path/0.225.2/_common/to_file_url.ts"
+    },
+    {
+      "kind": "esm",
+      "local": "/Users/marvinh/Library/Caches/deno/deps/https/jsr.io/f1837a6f6720a1a419226fa8fcd412ce8c0141fb01f2fa74f9145f0cea3b2139",
+      "emit": "/Users/marvinh/Library/Caches/deno/gen/https/jsr.io/f1837a6f6720a1a419226fa8fcd412ce8c0141fb01f2fa74f9145f0cea3b2139.js",
+      "map": null,
+      "size": 1122,
+      "mediaType": "TypeScript",
+      "specifier": "https://jsr.io/@std/path/0.225.2/_interface.ts"
+    },
+    {
+      "kind": "esm",
+      "local": "/Users/marvinh/Library/Caches/deno/deps/https/jsr.io/d7bf3b31b502a764b25c5ecf43bdf3d3542658683b529f0482a95ac41da38497",
+      "emit": "/Users/marvinh/Library/Caches/deno/gen/https/jsr.io/d7bf3b31b502a764b25c5ecf43bdf3d3542658683b529f0482a95ac41da38497.js",
+      "map": null,
+      "size": 832,
+      "mediaType": "TypeScript",
+      "specifier": "https://jsr.io/@std/path/0.225.2/_os.ts"
+    },
+    {
+      "kind": "esm",
+      "dependencies": [
+        {
+          "specifier": "./_os.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/_os.ts",
+            "span": {
+              "start": {
+                "line": 3,
+                "character": 26
+              },
+              "end": {
+                "line": 3,
+                "character": 36
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./posix/basename.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/posix/basename.ts",
+            "span": {
+              "start": {
+                "line": 4,
+                "character": 42
+              },
+              "end": {
+                "line": 4,
+                "character": 63
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./windows/basename.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/windows/basename.ts",
+            "span": {
+              "start": {
+                "line": 5,
+                "character": 44
+              },
+              "end": {
+                "line": 5,
+                "character": 67
+              }
+            }
+          }
+        }
+      ],
+      "local": "/Users/marvinh/Library/Caches/deno/deps/https/jsr.io/18c2c65f6ae18eba55610c8201fef8a8bf5c239591f99c24d7c8374753972930",
+      "emit": "/Users/marvinh/Library/Caches/deno/gen/https/jsr.io/18c2c65f6ae18eba55610c8201fef8a8bf5c239591f99c24d7c8374753972930.js",
+      "map": null,
+      "size": 1078,
+      "mediaType": "TypeScript",
+      "specifier": "https://jsr.io/@std/path/0.225.2/basename.ts"
+    },
+    {
+      "kind": "esm",
+      "dependencies": [
+        {
+          "specifier": "./_common/common.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/_common/common.ts",
+            "span": {
+              "start": {
+                "line": 3,
+                "character": 24
+              },
+              "end": {
+                "line": 3,
+                "character": 45
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./constants.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/constants.ts",
+            "span": {
+              "start": {
+                "line": 4,
+                "character": 26
+              },
+              "end": {
+                "line": 4,
+                "character": 42
+              }
+            }
+          }
+        }
+      ],
+      "local": "/Users/marvinh/Library/Caches/deno/deps/https/jsr.io/3eab87c643b62dd3a5a0939961f1c9a60c5b0700ae37f0feb35dfc8fa393de3c",
+      "emit": "/Users/marvinh/Library/Caches/deno/gen/https/jsr.io/3eab87c643b62dd3a5a0939961f1c9a60c5b0700ae37f0feb35dfc8fa393de3c.js",
+      "map": null,
+      "size": 1067,
+      "mediaType": "TypeScript",
+      "specifier": "https://jsr.io/@std/path/0.225.2/common.ts"
+    },
+    {
+      "kind": "esm",
+      "dependencies": [
+        {
+          "specifier": "./_os.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/_os.ts",
+            "span": {
+              "start": {
+                "line": 2,
+                "character": 26
+              },
+              "end": {
+                "line": 2,
+                "character": 36
+              }
+            }
+          }
+        }
+      ],
+      "local": "/Users/marvinh/Library/Caches/deno/deps/https/jsr.io/b32515ddc181a011f2fefafb8552f0b17bb401845a90f807af948e738817f3ac",
+      "emit": "/Users/marvinh/Library/Caches/deno/gen/https/jsr.io/b32515ddc181a011f2fefafb8552f0b17bb401845a90f807af948e738817f3ac.js",
+      "map": null,
+      "size": 705,
+      "mediaType": "TypeScript",
+      "specifier": "https://jsr.io/@std/path/0.225.2/constants.ts"
+    },
+    {
+      "kind": "esm",
+      "dependencies": [
+        {
+          "specifier": "./_os.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/_os.ts",
+            "span": {
+              "start": {
+                "line": 3,
+                "character": 26
+              },
+              "end": {
+                "line": 3,
+                "character": 36
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./posix/dirname.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/posix/dirname.ts",
+            "span": {
+              "start": {
+                "line": 4,
+                "character": 40
+              },
+              "end": {
+                "line": 4,
+                "character": 60
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./windows/dirname.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/windows/dirname.ts",
+            "span": {
+              "start": {
+                "line": 5,
+                "character": 42
+              },
+              "end": {
+                "line": 5,
+                "character": 64
+              }
+            }
+          }
+        }
+      ],
+      "local": "/Users/marvinh/Library/Caches/deno/deps/https/jsr.io/2b420ec7b711a26cab0d61d801a4945ac2ec2ae3b54bde19fe75839de4c578d2",
+      "emit": "/Users/marvinh/Library/Caches/deno/gen/https/jsr.io/2b420ec7b711a26cab0d61d801a4945ac2ec2ae3b54bde19fe75839de4c578d2.js",
+      "map": null,
+      "size": 917,
+      "mediaType": "TypeScript",
+      "specifier": "https://jsr.io/@std/path/0.225.2/dirname.ts"
+    },
+    {
+      "kind": "esm",
+      "dependencies": [
+        {
+          "specifier": "./_os.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/_os.ts",
+            "span": {
+              "start": {
+                "line": 3,
+                "character": 26
+              },
+              "end": {
+                "line": 3,
+                "character": 36
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./posix/extname.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/posix/extname.ts",
+            "span": {
+              "start": {
+                "line": 4,
+                "character": 40
+              },
+              "end": {
+                "line": 4,
+                "character": 60
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./windows/extname.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/windows/extname.ts",
+            "span": {
+              "start": {
+                "line": 5,
+                "character": 42
+              },
+              "end": {
+                "line": 5,
+                "character": 64
+              }
+            }
+          }
+        }
+      ],
+      "local": "/Users/marvinh/Library/Caches/deno/deps/https/jsr.io/3e1f60808f643a36cf2b787c0a3a44f30db3e51b2e6c5197bd47c417aa6de076",
+      "emit": "/Users/marvinh/Library/Caches/deno/gen/https/jsr.io/3e1f60808f643a36cf2b787c0a3a44f30db3e51b2e6c5197bd47c417aa6de076.js",
+      "map": null,
+      "size": 920,
+      "mediaType": "TypeScript",
+      "specifier": "https://jsr.io/@std/path/0.225.2/extname.ts"
+    },
+    {
+      "kind": "esm",
+      "dependencies": [
+        {
+          "specifier": "./_os.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/_os.ts",
+            "span": {
+              "start": {
+                "line": 3,
+                "character": 26
+              },
+              "end": {
+                "line": 3,
+                "character": 36
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./posix/format.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/posix/format.ts",
+            "span": {
+              "start": {
+                "line": 4,
+                "character": 38
+              },
+              "end": {
+                "line": 4,
+                "character": 57
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./windows/format.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/windows/format.ts",
+            "span": {
+              "start": {
+                "line": 5,
+                "character": 40
+              },
+              "end": {
+                "line": 5,
+                "character": 61
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./_interface.ts",
+          "type": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/_interface.ts",
+            "span": {
+              "start": {
+                "line": 6,
+                "character": 43
+              },
+              "end": {
+                "line": 6,
+                "character": 60
+              }
+            }
+          }
+        }
+      ],
+      "local": "/Users/marvinh/Library/Caches/deno/deps/https/jsr.io/c11c20171cbc395fb9a7f8c7edac7c7f34cd0bc42381521cb38e923def85e186",
+      "emit": "/Users/marvinh/Library/Caches/deno/gen/https/jsr.io/c11c20171cbc395fb9a7f8c7edac7c7f34cd0bc42381521cb38e923def85e186.js",
+      "map": null,
+      "size": 1126,
+      "mediaType": "TypeScript",
+      "specifier": "https://jsr.io/@std/path/0.225.2/format.ts"
+    },
+    {
+      "kind": "esm",
+      "dependencies": [
+        {
+          "specifier": "./_os.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/_os.ts",
+            "span": {
+              "start": {
+                "line": 3,
+                "character": 26
+              },
+              "end": {
+                "line": 3,
+                "character": 36
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./posix/from_file_url.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/posix/from_file_url.ts",
+            "span": {
+              "start": {
+                "line": 4,
+                "character": 48
+              },
+              "end": {
+                "line": 4,
+                "character": 74
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./windows/from_file_url.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/windows/from_file_url.ts",
+            "span": {
+              "start": {
+                "line": 5,
+                "character": 50
+              },
+              "end": {
+                "line": 5,
+                "character": 78
+              }
+            }
+          }
+        }
+      ],
+      "local": "/Users/marvinh/Library/Caches/deno/deps/https/jsr.io/b70a49a07a3cd468eb1391d55d99ac1cf2be10964967ce36651f83f702537736",
+      "emit": "/Users/marvinh/Library/Caches/deno/gen/https/jsr.io/b70a49a07a3cd468eb1391d55d99ac1cf2be10964967ce36651f83f702537736.js",
+      "map": null,
+      "size": 1064,
+      "mediaType": "TypeScript",
+      "specifier": "https://jsr.io/@std/path/0.225.2/from_file_url.ts"
+    },
+    {
+      "kind": "esm",
+      "dependencies": [
+        {
+          "specifier": "./_common/glob_to_reg_exp.ts",
+          "type": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/_common/glob_to_reg_exp.ts",
+            "span": {
+              "start": {
+                "line": 3,
+                "character": 33
+              },
+              "end": {
+                "line": 3,
+                "character": 63
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./_os.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/_os.ts",
+            "span": {
+              "start": {
+                "line": 4,
+                "character": 39
+              },
+              "end": {
+                "line": 4,
+                "character": 49
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./posix/glob_to_regexp.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/posix/glob_to_regexp.ts",
+            "span": {
+              "start": {
+                "line": 6,
+                "character": 50
+              },
+              "end": {
+                "line": 6,
+                "character": 77
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./windows/glob_to_regexp.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/windows/glob_to_regexp.ts",
+            "span": {
+              "start": {
+                "line": 9,
+                "character": 7
+              },
+              "end": {
+                "line": 9,
+                "character": 36
+              }
+            }
+          }
+        }
+      ],
+      "local": "/Users/marvinh/Library/Caches/deno/deps/https/jsr.io/7766bdc4037a46b23304525e49abda4e567f0341a13ef929ecc6ccb1859800f0",
+      "emit": "/Users/marvinh/Library/Caches/deno/gen/https/jsr.io/7766bdc4037a46b23304525e49abda4e567f0341a13ef929ecc6ccb1859800f0.js",
+      "map": null,
+      "size": 4258,
+      "mediaType": "TypeScript",
+      "specifier": "https://jsr.io/@std/path/0.225.2/glob_to_regexp.ts"
+    },
+    {
+      "kind": "esm",
+      "dependencies": [
+        {
+          "specifier": "./_os.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/_os.ts",
+            "span": {
+              "start": {
+                "line": 3,
+                "character": 26
+              },
+              "end": {
+                "line": 3,
+                "character": 36
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./posix/is_absolute.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/posix/is_absolute.ts",
+            "span": {
+              "start": {
+                "line": 4,
+                "character": 46
+              },
+              "end": {
+                "line": 4,
+                "character": 70
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./windows/is_absolute.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/windows/is_absolute.ts",
+            "span": {
+              "start": {
+                "line": 5,
+                "character": 48
+              },
+              "end": {
+                "line": 5,
+                "character": 74
+              }
+            }
+          }
+        }
+      ],
+      "local": "/Users/marvinh/Library/Caches/deno/deps/https/jsr.io/89fdefc501cb2878a437247291991cb1cb4e6c98fbd0370a783fec62972e61a5",
+      "emit": "/Users/marvinh/Library/Caches/deno/gen/https/jsr.io/89fdefc501cb2878a437247291991cb1cb4e6c98fbd0370a783fec62972e61a5.js",
+      "map": null,
+      "size": 958,
+      "mediaType": "TypeScript",
+      "specifier": "https://jsr.io/@std/path/0.225.2/is_absolute.ts"
+    },
+    {
+      "kind": "esm",
+      "local": "/Users/marvinh/Library/Caches/deno/deps/https/jsr.io/fc0b66e5ce17e1e2ad24621fdca6e294daad60c0e14fb6e878d5e8df68ab0547",
+      "emit": "/Users/marvinh/Library/Caches/deno/gen/https/jsr.io/fc0b66e5ce17e1e2ad24621fdca6e294daad60c0e14fb6e878d5e8df68ab0547.js",
+      "map": null,
+      "size": 1254,
+      "mediaType": "TypeScript",
+      "specifier": "https://jsr.io/@std/path/0.225.2/is_glob.ts"
+    },
+    {
+      "kind": "esm",
+      "dependencies": [
+        {
+          "specifier": "./_os.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/_os.ts",
+            "span": {
+              "start": {
+                "line": 3,
+                "character": 26
+              },
+              "end": {
+                "line": 3,
+                "character": 36
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./posix/join.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/posix/join.ts",
+            "span": {
+              "start": {
+                "line": 4,
+                "character": 34
+              },
+              "end": {
+                "line": 4,
+                "character": 51
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./windows/join.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/windows/join.ts",
+            "span": {
+              "start": {
+                "line": 5,
+                "character": 36
+              },
+              "end": {
+                "line": 5,
+                "character": 55
+              }
+            }
+          }
+        }
+      ],
+      "local": "/Users/marvinh/Library/Caches/deno/deps/https/jsr.io/96a1dadb58da3a842bc4b9a4faae578e4e825f7a16d52502e745fa39650e70d1",
+      "emit": "/Users/marvinh/Library/Caches/deno/gen/https/jsr.io/96a1dadb58da3a842bc4b9a4faae578e4e825f7a16d52502e745fa39650e70d1.js",
+      "map": null,
+      "size": 949,
+      "mediaType": "TypeScript",
+      "specifier": "https://jsr.io/@std/path/0.225.2/join.ts"
+    },
+    {
+      "kind": "esm",
+      "dependencies": [
+        {
+          "specifier": "./_common/glob_to_reg_exp.ts",
+          "type": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/_common/glob_to_reg_exp.ts",
+            "span": {
+              "start": {
+                "line": 3,
+                "character": 33
+              },
+              "end": {
+                "line": 3,
+                "character": 63
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./_os.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/_os.ts",
+            "span": {
+              "start": {
+                "line": 4,
+                "character": 26
+              },
+              "end": {
+                "line": 4,
+                "character": 36
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./posix/join_globs.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/posix/join_globs.ts",
+            "span": {
+              "start": {
+                "line": 5,
+                "character": 44
+              },
+              "end": {
+                "line": 5,
+                "character": 67
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./windows/join_globs.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/windows/join_globs.ts",
+            "span": {
+              "start": {
+                "line": 6,
+                "character": 46
+              },
+              "end": {
+                "line": 6,
+                "character": 71
+              }
+            }
+          }
+        }
+      ],
+      "local": "/Users/marvinh/Library/Caches/deno/deps/https/jsr.io/f1ba9ffac9fe6903f9bb0ac406d1a698db717c93c16dae670cdfd23ed74e4706",
+      "emit": "/Users/marvinh/Library/Caches/deno/gen/https/jsr.io/f1ba9ffac9fe6903f9bb0ac406d1a698db717c93c16dae670cdfd23ed74e4706.js",
+      "map": null,
+      "size": 1472,
+      "mediaType": "TypeScript",
+      "specifier": "https://jsr.io/@std/path/0.225.2/join_globs.ts"
+    },
+    {
+      "kind": "esm",
+      "dependencies": [
+        {
+          "specifier": "./windows/mod.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/windows/mod.ts",
+            "span": {
+              "start": {
+                "line": 38,
+                "character": 26
+              },
+              "end": {
+                "line": 38,
+                "character": 44
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./posix/mod.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/posix/mod.ts",
+            "span": {
+              "start": {
+                "line": 39,
+                "character": 24
+              },
+              "end": {
+                "line": 39,
+                "character": 40
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./basename.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/basename.ts",
+            "span": {
+              "start": {
+                "line": 57,
+                "character": 14
+              },
+              "end": {
+                "line": 57,
+                "character": 29
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./constants.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/constants.ts",
+            "span": {
+              "start": {
+                "line": 58,
+                "character": 14
+              },
+              "end": {
+                "line": 58,
+                "character": 30
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./dirname.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/dirname.ts",
+            "span": {
+              "start": {
+                "line": 59,
+                "character": 14
+              },
+              "end": {
+                "line": 59,
+                "character": 28
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./extname.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/extname.ts",
+            "span": {
+              "start": {
+                "line": 60,
+                "character": 14
+              },
+              "end": {
+                "line": 60,
+                "character": 28
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./format.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/format.ts",
+            "span": {
+              "start": {
+                "line": 61,
+                "character": 14
+              },
+              "end": {
+                "line": 61,
+                "character": 27
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./from_file_url.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/from_file_url.ts",
+            "span": {
+              "start": {
+                "line": 62,
+                "character": 14
+              },
+              "end": {
+                "line": 62,
+                "character": 34
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./is_absolute.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/is_absolute.ts",
+            "span": {
+              "start": {
+                "line": 63,
+                "character": 14
+              },
+              "end": {
+                "line": 63,
+                "character": 32
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./join.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/join.ts",
+            "span": {
+              "start": {
+                "line": 64,
+                "character": 14
+              },
+              "end": {
+                "line": 64,
+                "character": 25
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./normalize.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/normalize.ts",
+            "span": {
+              "start": {
+                "line": 65,
+                "character": 14
+              },
+              "end": {
+                "line": 65,
+                "character": 30
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./parse.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/parse.ts",
+            "span": {
+              "start": {
+                "line": 66,
+                "character": 14
+              },
+              "end": {
+                "line": 66,
+                "character": 26
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./relative.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/relative.ts",
+            "span": {
+              "start": {
+                "line": 67,
+                "character": 14
+              },
+              "end": {
+                "line": 67,
+                "character": 29
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./resolve.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/resolve.ts",
+            "span": {
+              "start": {
+                "line": 68,
+                "character": 14
+              },
+              "end": {
+                "line": 68,
+                "character": 28
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./to_file_url.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/to_file_url.ts",
+            "span": {
+              "start": {
+                "line": 69,
+                "character": 14
+              },
+              "end": {
+                "line": 69,
+                "character": 32
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./to_namespaced_path.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/to_namespaced_path.ts",
+            "span": {
+              "start": {
+                "line": 70,
+                "character": 14
+              },
+              "end": {
+                "line": 70,
+                "character": 39
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./common.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/common.ts",
+            "span": {
+              "start": {
+                "line": 71,
+                "character": 14
+              },
+              "end": {
+                "line": 71,
+                "character": 27
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./_interface.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/_interface.ts",
+            "span": {
+              "start": {
+                "line": 72,
+                "character": 14
+              },
+              "end": {
+                "line": 72,
+                "character": 31
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./glob_to_regexp.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/glob_to_regexp.ts",
+            "span": {
+              "start": {
+                "line": 73,
+                "character": 14
+              },
+              "end": {
+                "line": 73,
+                "character": 35
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./is_glob.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/is_glob.ts",
+            "span": {
+              "start": {
+                "line": 74,
+                "character": 14
+              },
+              "end": {
+                "line": 74,
+                "character": 28
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./join_globs.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/join_globs.ts",
+            "span": {
+              "start": {
+                "line": 75,
+                "character": 14
+              },
+              "end": {
+                "line": 75,
+                "character": 31
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./normalize_glob.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/normalize_glob.ts",
+            "span": {
+              "start": {
+                "line": 76,
+                "character": 14
+              },
+              "end": {
+                "line": 76,
+                "character": 35
+              }
+            }
+          }
+        }
+      ],
+      "local": "/Users/marvinh/Library/Caches/deno/deps/https/jsr.io/f2a88f021f98433afe2479e41aef0f0fd5637ebd8302a56152fde957223a308f",
+      "emit": "/Users/marvinh/Library/Caches/deno/gen/https/jsr.io/f2a88f021f98433afe2479e41aef0f0fd5637ebd8302a56152fde957223a308f.js",
+      "map": null,
+      "size": 2398,
+      "mediaType": "TypeScript",
+      "specifier": "https://jsr.io/@std/path/0.225.2/mod.ts"
+    },
+    {
+      "kind": "esm",
+      "dependencies": [
+        {
+          "specifier": "./_os.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/_os.ts",
+            "span": {
+              "start": {
+                "line": 3,
+                "character": 26
+              },
+              "end": {
+                "line": 3,
+                "character": 36
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./posix/normalize.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/posix/normalize.ts",
+            "span": {
+              "start": {
+                "line": 4,
+                "character": 44
+              },
+              "end": {
+                "line": 4,
+                "character": 66
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./windows/normalize.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/windows/normalize.ts",
+            "span": {
+              "start": {
+                "line": 5,
+                "character": 46
+              },
+              "end": {
+                "line": 5,
+                "character": 70
+              }
+            }
+          }
+        }
+      ],
+      "local": "/Users/marvinh/Library/Caches/deno/deps/https/jsr.io/483bafd2f069e6a0022e40ea78aab325913578c9a9e6a4cf87023ee17e48f2b4",
+      "emit": "/Users/marvinh/Library/Caches/deno/gen/https/jsr.io/483bafd2f069e6a0022e40ea78aab325913578c9a9e6a4cf87023ee17e48f2b4.js",
+      "map": null,
+      "size": 1098,
+      "mediaType": "TypeScript",
+      "specifier": "https://jsr.io/@std/path/0.225.2/normalize.ts"
+    },
+    {
+      "kind": "esm",
+      "dependencies": [
+        {
+          "specifier": "./_common/glob_to_reg_exp.ts",
+          "type": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/_common/glob_to_reg_exp.ts",
+            "span": {
+              "start": {
+                "line": 3,
+                "character": 33
+              },
+              "end": {
+                "line": 3,
+                "character": 63
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./_os.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/_os.ts",
+            "span": {
+              "start": {
+                "line": 4,
+                "character": 26
+              },
+              "end": {
+                "line": 4,
+                "character": 36
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./posix/normalize_glob.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/posix/normalize_glob.ts",
+            "span": {
+              "start": {
+                "line": 5,
+                "character": 52
+              },
+              "end": {
+                "line": 5,
+                "character": 79
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./windows/normalize_glob.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/windows/normalize_glob.ts",
+            "span": {
+              "start": {
+                "line": 8,
+                "character": 7
+              },
+              "end": {
+                "line": 8,
+                "character": 36
+              }
+            }
+          }
+        }
+      ],
+      "local": "/Users/marvinh/Library/Caches/deno/deps/https/jsr.io/faaa7736674d2afde094d1dfaf5e170b0257a6bff665ffd1465e5602e9f5f923",
+      "emit": "/Users/marvinh/Library/Caches/deno/gen/https/jsr.io/faaa7736674d2afde094d1dfaf5e170b0257a6bff665ffd1465e5602e9f5f923.js",
+      "map": null,
+      "size": 1457,
+      "mediaType": "TypeScript",
+      "specifier": "https://jsr.io/@std/path/0.225.2/normalize_glob.ts"
+    },
+    {
+      "kind": "esm",
+      "dependencies": [
+        {
+          "specifier": "./_os.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/_os.ts",
+            "span": {
+              "start": {
+                "line": 3,
+                "character": 26
+              },
+              "end": {
+                "line": 3,
+                "character": 36
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./_interface.ts",
+          "type": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/_interface.ts",
+            "span": {
+              "start": {
+                "line": 4,
+                "character": 32
+              },
+              "end": {
+                "line": 4,
+                "character": 49
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./posix/parse.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/posix/parse.ts",
+            "span": {
+              "start": {
+                "line": 5,
+                "character": 36
+              },
+              "end": {
+                "line": 5,
+                "character": 54
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./windows/parse.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/windows/parse.ts",
+            "span": {
+              "start": {
+                "line": 6,
+                "character": 38
+              },
+              "end": {
+                "line": 6,
+                "character": 58
+              }
+            }
+          }
+        }
+      ],
+      "local": "/Users/marvinh/Library/Caches/deno/deps/https/jsr.io/67078be96d41d96d450ec0c6e5a3f427a4d395bf1c0b8cb8180d3559f6461b1a",
+      "emit": "/Users/marvinh/Library/Caches/deno/gen/https/jsr.io/67078be96d41d96d450ec0c6e5a3f427a4d395bf1c0b8cb8180d3559f6461b1a.js",
+      "map": null,
+      "size": 1496,
+      "mediaType": "TypeScript",
+      "specifier": "https://jsr.io/@std/path/0.225.2/parse.ts"
+    },
+    {
+      "kind": "esm",
+      "dependencies": [
+        {
+          "specifier": "../_common/constants.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/_common/constants.ts",
+            "span": {
+              "start": {
+                "line": 5,
+                "character": 35
+              },
+              "end": {
+                "line": 5,
+                "character": 60
+              }
+            }
+          }
+        }
+      ],
+      "local": "/Users/marvinh/Library/Caches/deno/deps/https/jsr.io/31818a1234ceae3cd72568a3061e0ff342d06907721255983e507d2282ae4446",
+      "emit": "/Users/marvinh/Library/Caches/deno/gen/https/jsr.io/31818a1234ceae3cd72568a3061e0ff342d06907721255983e507d2282ae4446.js",
+      "map": null,
+      "size": 391,
+      "mediaType": "TypeScript",
+      "specifier": "https://jsr.io/@std/path/0.225.2/posix/_util.ts"
+    },
+    {
+      "kind": "esm",
+      "dependencies": [
+        {
+          "specifier": "../_common/basename.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/_common/basename.ts",
+            "span": {
+              "start": {
+                "line": 7,
+                "character": 7
+              },
+              "end": {
+                "line": 7,
+                "character": 31
+              }
+            }
+          }
+        },
+        {
+          "specifier": "../_common/strip_trailing_separators.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/_common/strip_trailing_separators.ts",
+            "span": {
+              "start": {
+                "line": 8,
+                "character": 40
+              },
+              "end": {
+                "line": 8,
+                "character": 81
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./_util.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/posix/_util.ts",
+            "span": {
+              "start": {
+                "line": 9,
+                "character": 37
+              },
+              "end": {
+                "line": 9,
+                "character": 49
+              }
+            }
+          }
+        }
+      ],
+      "local": "/Users/marvinh/Library/Caches/deno/deps/https/jsr.io/f625f2bf15ccdc70db562f79a89f30015d5476c104cc7e4b12d92e64f1b1f834",
+      "emit": "/Users/marvinh/Library/Caches/deno/gen/https/jsr.io/f625f2bf15ccdc70db562f79a89f30015d5476c104cc7e4b12d92e64f1b1f834.js",
+      "map": null,
+      "size": 1316,
+      "mediaType": "TypeScript",
+      "specifier": "https://jsr.io/@std/path/0.225.2/posix/basename.ts"
+    },
+    {
+      "kind": "esm",
+      "dependencies": [
+        {
+          "specifier": "../_common/common.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/_common/common.ts",
+            "span": {
+              "start": {
+                "line": 3,
+                "character": 24
+              },
+              "end": {
+                "line": 3,
+                "character": 46
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./constants.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/posix/constants.ts",
+            "span": {
+              "start": {
+                "line": 4,
+                "character": 26
+              },
+              "end": {
+                "line": 4,
+                "character": 42
+              }
+            }
+          }
+        }
+      ],
+      "local": "/Users/marvinh/Library/Caches/deno/deps/https/jsr.io/7e0c4dfbd734d76337f16f7d8c2250df7b9eb0600d1588f96bfdfbb2435957dd",
+      "emit": "/Users/marvinh/Library/Caches/deno/gen/https/jsr.io/7e0c4dfbd734d76337f16f7d8c2250df7b9eb0600d1588f96bfdfbb2435957dd.js",
+      "map": null,
+      "size": 859,
+      "mediaType": "TypeScript",
+      "specifier": "https://jsr.io/@std/path/0.225.2/posix/common.ts"
+    },
+    {
+      "kind": "esm",
+      "local": "/Users/marvinh/Library/Caches/deno/deps/https/jsr.io/ce86cb75221ef01a37e162b78e77bf2f904cf7e399c9e1dec44ec3f22d293e0f",
+      "emit": "/Users/marvinh/Library/Caches/deno/gen/https/jsr.io/ce86cb75221ef01a37e162b78e77bf2f904cf7e399c9e1dec44ec3f22d293e0f.js",
+      "map": null,
+      "size": 459,
+      "mediaType": "TypeScript",
+      "specifier": "https://jsr.io/@std/path/0.225.2/posix/constants.ts"
+    },
+    {
+      "kind": "esm",
+      "dependencies": [
+        {
+          "specifier": "../_common/dirname.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/_common/dirname.ts",
+            "span": {
+              "start": {
+                "line": 3,
+                "character": 26
+              },
+              "end": {
+                "line": 3,
+                "character": 49
+              }
+            }
+          }
+        },
+        {
+          "specifier": "../_common/strip_trailing_separators.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/_common/strip_trailing_separators.ts",
+            "span": {
+              "start": {
+                "line": 4,
+                "character": 40
+              },
+              "end": {
+                "line": 4,
+                "character": 81
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./_util.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/posix/_util.ts",
+            "span": {
+              "start": {
+                "line": 5,
+                "character": 37
+              },
+              "end": {
+                "line": 5,
+                "character": 49
+              }
+            }
+          }
+        }
+      ],
+      "local": "/Users/marvinh/Library/Caches/deno/deps/https/jsr.io/958c192745480512ac74962ba7b106080c8861b9bee5f0af70f71479a59b5a8f",
+      "emit": "/Users/marvinh/Library/Caches/deno/gen/https/jsr.io/958c192745480512ac74962ba7b106080c8861b9bee5f0af70f71479a59b5a8f.js",
+      "map": null,
+      "size": 1446,
+      "mediaType": "TypeScript",
+      "specifier": "https://jsr.io/@std/path/0.225.2/posix/dirname.ts"
+    },
+    {
+      "kind": "esm",
+      "dependencies": [
+        {
+          "specifier": "../_common/constants.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/_common/constants.ts",
+            "span": {
+              "start": {
+                "line": 3,
+                "character": 25
+              },
+              "end": {
+                "line": 3,
+                "character": 50
+              }
+            }
+          }
+        },
+        {
+          "specifier": "../_common/assert_path.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/_common/assert_path.ts",
+            "span": {
+              "start": {
+                "line": 4,
+                "character": 27
+              },
+              "end": {
+                "line": 4,
+                "character": 54
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./_util.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/posix/_util.ts",
+            "span": {
+              "start": {
+                "line": 5,
+                "character": 37
+              },
+              "end": {
+                "line": 5,
+                "character": 49
+              }
+            }
+          }
+        }
+      ],
+      "local": "/Users/marvinh/Library/Caches/deno/deps/https/jsr.io/797d2c1bbf5630afec9952e07dfbe406b9f39d6a39a274a9ec77365ec7b60e8b",
+      "emit": "/Users/marvinh/Library/Caches/deno/gen/https/jsr.io/797d2c1bbf5630afec9952e07dfbe406b9f39d6a39a274a9ec77365ec7b60e8b.js",
+      "map": null,
+      "size": 2348,
+      "mediaType": "TypeScript",
+      "specifier": "https://jsr.io/@std/path/0.225.2/posix/extname.ts"
+    },
+    {
+      "kind": "esm",
+      "dependencies": [
+        {
+          "specifier": "../_common/format.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/_common/format.ts",
+            "span": {
+              "start": {
+                "line": 3,
+                "character": 35
+              },
+              "end": {
+                "line": 3,
+                "character": 57
+              }
+            }
+          }
+        },
+        {
+          "specifier": "../_interface.ts",
+          "type": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/_interface.ts",
+            "span": {
+              "start": {
+                "line": 4,
+                "character": 43
+              },
+              "end": {
+                "line": 4,
+                "character": 61
+              }
+            }
+          }
+        }
+      ],
+      "local": "/Users/marvinh/Library/Caches/deno/deps/https/jsr.io/2137d2c67f15b87a32b53e2f3cce45b2fa4ff57f81230b0a2926e7dfa9d51792",
+      "emit": "/Users/marvinh/Library/Caches/deno/gen/https/jsr.io/2137d2c67f15b87a32b53e2f3cce45b2fa4ff57f81230b0a2926e7dfa9d51792.js",
+      "map": null,
+      "size": 842,
+      "mediaType": "TypeScript",
+      "specifier": "https://jsr.io/@std/path/0.225.2/posix/format.ts"
+    },
+    {
+      "kind": "esm",
+      "dependencies": [
+        {
+          "specifier": "../_common/from_file_url.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/_common/from_file_url.ts",
+            "span": {
+              "start": {
+                "line": 3,
+                "character": 26
+              },
+              "end": {
+                "line": 3,
+                "character": 55
+              }
+            }
+          }
+        }
+      ],
+      "local": "/Users/marvinh/Library/Caches/deno/deps/https/jsr.io/38445a733ce5a69fbea89081bf3b8793a386ab4cc32e4a322d04f7a39c2d72c9",
+      "emit": "/Users/marvinh/Library/Caches/deno/gen/https/jsr.io/38445a733ce5a69fbea89081bf3b8793a386ab4cc32e4a322d04f7a39c2d72c9.js",
+      "map": null,
+      "size": 703,
+      "mediaType": "TypeScript",
+      "specifier": "https://jsr.io/@std/path/0.225.2/posix/from_file_url.ts"
+    },
+    {
+      "kind": "esm",
+      "dependencies": [
+        {
+          "specifier": "../_common/glob_to_reg_exp.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/_common/glob_to_reg_exp.ts",
+            "span": {
+              "start": {
+                "line": 7,
+                "character": 7
+              },
+              "end": {
+                "line": 7,
+                "character": 38
+              }
+            }
+          }
+        }
+      ],
+      "local": "/Users/marvinh/Library/Caches/deno/deps/https/jsr.io/a3d4bf6ba52191999c23a22084ef8af7637d13dc8a2cdd23f84b08285f18395b",
+      "emit": "/Users/marvinh/Library/Caches/deno/gen/https/jsr.io/a3d4bf6ba52191999c23a22084ef8af7637d13dc8a2cdd23f84b08285f18395b.js",
+      "map": null,
+      "size": 3796,
+      "mediaType": "TypeScript",
+      "specifier": "https://jsr.io/@std/path/0.225.2/posix/glob_to_regexp.ts"
+    },
+    {
+      "kind": "esm",
+      "dependencies": [
+        {
+          "specifier": "../_common/assert_path.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/_common/assert_path.ts",
+            "span": {
+              "start": {
+                "line": 3,
+                "character": 27
+              },
+              "end": {
+                "line": 3,
+                "character": 54
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./_util.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/posix/_util.ts",
+            "span": {
+              "start": {
+                "line": 4,
+                "character": 37
+              },
+              "end": {
+                "line": 4,
+                "character": 49
+              }
+            }
+          }
+        }
+      ],
+      "local": "/Users/marvinh/Library/Caches/deno/deps/https/jsr.io/4e6c03b0c0354bb003de6c40d6648c73a7cde3e90bc1c2aa10e5167759cb0837",
+      "emit": "/Users/marvinh/Library/Caches/deno/gen/https/jsr.io/4e6c03b0c0354bb003de6c40d6648c73a7cde3e90bc1c2aa10e5167759cb0837.js",
+      "map": null,
+      "size": 756,
+      "mediaType": "TypeScript",
+      "specifier": "https://jsr.io/@std/path/0.225.2/posix/is_absolute.ts"
+    },
+    {
+      "kind": "esm",
+      "dependencies": [
+        {
+          "specifier": "../is_glob.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/is_glob.ts",
+            "span": {
+              "start": {
+                "line": 3,
+                "character": 23
+              },
+              "end": {
+                "line": 3,
+                "character": 38
+              }
+            }
+          }
+        }
+      ],
+      "local": "/Users/marvinh/Library/Caches/deno/deps/https/jsr.io/e73680e98be69677ab4ade14c7d1d44b4d5af2218f46e0665b1550ca08211eb2",
+      "emit": "/Users/marvinh/Library/Caches/deno/gen/https/jsr.io/e73680e98be69677ab4ade14c7d1d44b4d5af2218f46e0665b1550ca08211eb2.js",
+      "map": null,
+      "size": 154,
+      "mediaType": "TypeScript",
+      "specifier": "https://jsr.io/@std/path/0.225.2/posix/is_glob.ts"
+    },
+    {
+      "kind": "esm",
+      "dependencies": [
+        {
+          "specifier": "../_common/assert_path.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/_common/assert_path.ts",
+            "span": {
+              "start": {
+                "line": 3,
+                "character": 27
+              },
+              "end": {
+                "line": 3,
+                "character": 54
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./normalize.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/posix/normalize.ts",
+            "span": {
+              "start": {
+                "line": 4,
+                "character": 26
+              },
+              "end": {
+                "line": 4,
+                "character": 42
+              }
+            }
+          }
+        }
+      ],
+      "local": "/Users/marvinh/Library/Caches/deno/deps/https/jsr.io/7d946739da3bc2109d0358a8d25272402feeb7935e1af552e5ad0ed19d5c34db",
+      "emit": "/Users/marvinh/Library/Caches/deno/gen/https/jsr.io/7d946739da3bc2109d0358a8d25272402feeb7935e1af552e5ad0ed19d5c34db.js",
+      "map": null,
+      "size": 1000,
+      "mediaType": "TypeScript",
+      "specifier": "https://jsr.io/@std/path/0.225.2/posix/join.ts"
+    },
+    {
+      "kind": "esm",
+      "dependencies": [
+        {
+          "specifier": "../_common/glob_to_reg_exp.ts",
+          "type": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/_common/glob_to_reg_exp.ts",
+            "span": {
+              "start": {
+                "line": 3,
+                "character": 33
+              },
+              "end": {
+                "line": 3,
+                "character": 64
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./join.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/posix/join.ts",
+            "span": {
+              "start": {
+                "line": 4,
+                "character": 21
+              },
+              "end": {
+                "line": 4,
+                "character": 32
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./constants.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/posix/constants.ts",
+            "span": {
+              "start": {
+                "line": 5,
+                "character": 26
+              },
+              "end": {
+                "line": 5,
+                "character": 42
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./normalize_glob.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/posix/normalize_glob.ts",
+            "span": {
+              "start": {
+                "line": 6,
+                "character": 30
+              },
+              "end": {
+                "line": 6,
+                "character": 51
+              }
+            }
+          }
+        }
+      ],
+      "local": "/Users/marvinh/Library/Caches/deno/deps/https/jsr.io/1f5b4b3752558eb77b0b0000e6e6fbc477ae1a4a049efa2bcacfe0f92188248f",
+      "emit": "/Users/marvinh/Library/Caches/deno/gen/https/jsr.io/1f5b4b3752558eb77b0b0000e6e6fbc477ae1a4a049efa2bcacfe0f92188248f.js",
+      "map": null,
+      "size": 1268,
+      "mediaType": "TypeScript",
+      "specifier": "https://jsr.io/@std/path/0.225.2/posix/join_globs.ts"
+    },
+    {
+      "kind": "esm",
+      "dependencies": [
+        {
+          "specifier": "./basename.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/posix/basename.ts",
+            "span": {
+              "start": {
+                "line": 23,
+                "character": 14
+              },
+              "end": {
+                "line": 23,
+                "character": 29
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./constants.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/posix/constants.ts",
+            "span": {
+              "start": {
+                "line": 24,
+                "character": 14
+              },
+              "end": {
+                "line": 24,
+                "character": 30
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./dirname.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/posix/dirname.ts",
+            "span": {
+              "start": {
+                "line": 25,
+                "character": 14
+              },
+              "end": {
+                "line": 25,
+                "character": 28
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./extname.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/posix/extname.ts",
+            "span": {
+              "start": {
+                "line": 26,
+                "character": 14
+              },
+              "end": {
+                "line": 26,
+                "character": 28
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./format.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/posix/format.ts",
+            "span": {
+              "start": {
+                "line": 27,
+                "character": 14
+              },
+              "end": {
+                "line": 27,
+                "character": 27
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./from_file_url.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/posix/from_file_url.ts",
+            "span": {
+              "start": {
+                "line": 28,
+                "character": 14
+              },
+              "end": {
+                "line": 28,
+                "character": 34
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./is_absolute.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/posix/is_absolute.ts",
+            "span": {
+              "start": {
+                "line": 29,
+                "character": 14
+              },
+              "end": {
+                "line": 29,
+                "character": 32
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./join.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/posix/join.ts",
+            "span": {
+              "start": {
+                "line": 30,
+                "character": 14
+              },
+              "end": {
+                "line": 30,
+                "character": 25
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./normalize.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/posix/normalize.ts",
+            "span": {
+              "start": {
+                "line": 31,
+                "character": 14
+              },
+              "end": {
+                "line": 31,
+                "character": 30
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./parse.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/posix/parse.ts",
+            "span": {
+              "start": {
+                "line": 32,
+                "character": 14
+              },
+              "end": {
+                "line": 32,
+                "character": 26
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./relative.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/posix/relative.ts",
+            "span": {
+              "start": {
+                "line": 33,
+                "character": 14
+              },
+              "end": {
+                "line": 33,
+                "character": 29
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./resolve.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/posix/resolve.ts",
+            "span": {
+              "start": {
+                "line": 34,
+                "character": 14
+              },
+              "end": {
+                "line": 34,
+                "character": 28
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./to_file_url.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/posix/to_file_url.ts",
+            "span": {
+              "start": {
+                "line": 35,
+                "character": 14
+              },
+              "end": {
+                "line": 35,
+                "character": 32
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./to_namespaced_path.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/posix/to_namespaced_path.ts",
+            "span": {
+              "start": {
+                "line": 36,
+                "character": 14
+              },
+              "end": {
+                "line": 36,
+                "character": 39
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./common.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/posix/common.ts",
+            "span": {
+              "start": {
+                "line": 37,
+                "character": 14
+              },
+              "end": {
+                "line": 37,
+                "character": 27
+              }
+            }
+          }
+        },
+        {
+          "specifier": "../_interface.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/_interface.ts",
+            "span": {
+              "start": {
+                "line": 38,
+                "character": 14
+              },
+              "end": {
+                "line": 38,
+                "character": 32
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./glob_to_regexp.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/posix/glob_to_regexp.ts",
+            "span": {
+              "start": {
+                "line": 39,
+                "character": 14
+              },
+              "end": {
+                "line": 39,
+                "character": 35
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./is_glob.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/posix/is_glob.ts",
+            "span": {
+              "start": {
+                "line": 40,
+                "character": 14
+              },
+              "end": {
+                "line": 40,
+                "character": 28
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./join_globs.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/posix/join_globs.ts",
+            "span": {
+              "start": {
+                "line": 41,
+                "character": 14
+              },
+              "end": {
+                "line": 41,
+                "character": 31
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./normalize_glob.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/posix/normalize_glob.ts",
+            "span": {
+              "start": {
+                "line": 42,
+                "character": 14
+              },
+              "end": {
+                "line": 42,
+                "character": 35
+              }
+            }
+          }
+        }
+      ],
+      "local": "/Users/marvinh/Library/Caches/deno/deps/https/jsr.io/6400dd79a59361124039251107361bb6850e1bee862b613bb8d37e66445da558",
+      "emit": "/Users/marvinh/Library/Caches/deno/gen/https/jsr.io/6400dd79a59361124039251107361bb6850e1bee862b613bb8d37e66445da558.js",
+      "map": null,
+      "size": 1386,
+      "mediaType": "TypeScript",
+      "specifier": "https://jsr.io/@std/path/0.225.2/posix/mod.ts"
+    },
+    {
+      "kind": "esm",
+      "dependencies": [
+        {
+          "specifier": "../_common/normalize.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/_common/normalize.ts",
+            "span": {
+              "start": {
+                "line": 3,
+                "character": 26
+              },
+              "end": {
+                "line": 3,
+                "character": 51
+              }
+            }
+          }
+        },
+        {
+          "specifier": "../_common/normalize_string.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/_common/normalize_string.ts",
+            "span": {
+              "start": {
+                "line": 4,
+                "character": 32
+              },
+              "end": {
+                "line": 4,
+                "character": 64
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./_util.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/posix/_util.ts",
+            "span": {
+              "start": {
+                "line": 5,
+                "character": 37
+              },
+              "end": {
+                "line": 5,
+                "character": 49
+              }
+            }
+          }
+        }
+      ],
+      "local": "/Users/marvinh/Library/Caches/deno/deps/https/jsr.io/38f43be53314614bdd03aef518331f07f937497fbd9064711ddfbe683ffb2eb8",
+      "emit": "/Users/marvinh/Library/Caches/deno/gen/https/jsr.io/38f43be53314614bdd03aef518331f07f937497fbd9064711ddfbe683ffb2eb8.js",
+      "map": null,
+      "size": 1358,
+      "mediaType": "TypeScript",
+      "specifier": "https://jsr.io/@std/path/0.225.2/posix/normalize.ts"
+    },
+    {
+      "kind": "esm",
+      "dependencies": [
+        {
+          "specifier": "../_common/glob_to_reg_exp.ts",
+          "type": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/_common/glob_to_reg_exp.ts",
+            "span": {
+              "start": {
+                "line": 3,
+                "character": 33
+              },
+              "end": {
+                "line": 3,
+                "character": 64
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./normalize.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/posix/normalize.ts",
+            "span": {
+              "start": {
+                "line": 4,
+                "character": 26
+              },
+              "end": {
+                "line": 4,
+                "character": 42
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./constants.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/posix/constants.ts",
+            "span": {
+              "start": {
+                "line": 5,
+                "character": 34
+              },
+              "end": {
+                "line": 5,
+                "character": 50
+              }
+            }
+          }
+        }
+      ],
+      "local": "/Users/marvinh/Library/Caches/deno/deps/https/jsr.io/1f7547d3a1267d814fd0e919a90ca4bb766c8b53e31fc95c53f95817be840628",
+      "emit": "/Users/marvinh/Library/Caches/deno/gen/https/jsr.io/1f7547d3a1267d814fd0e919a90ca4bb766c8b53e31fc95c53f95817be840628.js",
+      "map": null,
+      "size": 1240,
+      "mediaType": "TypeScript",
+      "specifier": "https://jsr.io/@std/path/0.225.2/posix/normalize_glob.ts"
+    },
+    {
+      "kind": "esm",
+      "dependencies": [
+        {
+          "specifier": "../_common/constants.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/_common/constants.ts",
+            "span": {
+              "start": {
+                "line": 3,
+                "character": 25
+              },
+              "end": {
+                "line": 3,
+                "character": 50
+              }
+            }
+          }
+        },
+        {
+          "specifier": "../_interface.ts",
+          "type": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/_interface.ts",
+            "span": {
+              "start": {
+                "line": 4,
+                "character": 32
+              },
+              "end": {
+                "line": 4,
+                "character": 50
+              }
+            }
+          }
+        },
+        {
+          "specifier": "../_common/strip_trailing_separators.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/_common/strip_trailing_separators.ts",
+            "span": {
+              "start": {
+                "line": 5,
+                "character": 40
+              },
+              "end": {
+                "line": 5,
+                "character": 81
+              }
+            }
+          }
+        },
+        {
+          "specifier": "../_common/assert_path.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/_common/assert_path.ts",
+            "span": {
+              "start": {
+                "line": 6,
+                "character": 27
+              },
+              "end": {
+                "line": 6,
+                "character": 54
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./_util.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/posix/_util.ts",
+            "span": {
+              "start": {
+                "line": 7,
+                "character": 37
+              },
+              "end": {
+                "line": 7,
+                "character": 49
+              }
+            }
+          }
+        }
+      ],
+      "local": "/Users/marvinh/Library/Caches/deno/deps/https/jsr.io/afdcab58497b1eb0997b9f33269b194f8187fdd6d34905c1e5a75aa8ac790307",
+      "emit": "/Users/marvinh/Library/Caches/deno/gen/https/jsr.io/afdcab58497b1eb0997b9f33269b194f8187fdd6d34905c1e5a75aa8ac790307.js",
+      "map": null,
+      "size": 3494,
+      "mediaType": "TypeScript",
+      "specifier": "https://jsr.io/@std/path/0.225.2/posix/parse.ts"
+    },
+    {
+      "kind": "esm",
+      "dependencies": [
+        {
+          "specifier": "./_util.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/posix/_util.ts",
+            "span": {
+              "start": {
+                "line": 3,
+                "character": 37
+              },
+              "end": {
+                "line": 3,
+                "character": 49
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./resolve.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/posix/resolve.ts",
+            "span": {
+              "start": {
+                "line": 4,
+                "character": 24
+              },
+              "end": {
+                "line": 4,
+                "character": 38
+              }
+            }
+          }
+        },
+        {
+          "specifier": "../_common/relative.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/_common/relative.ts",
+            "span": {
+              "start": {
+                "line": 5,
+                "character": 27
+              },
+              "end": {
+                "line": 5,
+                "character": 51
+              }
+            }
+          }
+        }
+      ],
+      "local": "/Users/marvinh/Library/Caches/deno/deps/https/jsr.io/b8a6378cf395acd97cb36d2ef52179126165b936955108e54938a1538312c842",
+      "emit": "/Users/marvinh/Library/Caches/deno/gen/https/jsr.io/b8a6378cf395acd97cb36d2ef52179126165b936955108e54938a1538312c842.js",
+      "map": null,
+      "size": 3345,
+      "mediaType": "TypeScript",
+      "specifier": "https://jsr.io/@std/path/0.225.2/posix/relative.ts"
+    },
+    {
+      "kind": "esm",
+      "dependencies": [
+        {
+          "specifier": "../_common/normalize_string.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/_common/normalize_string.ts",
+            "span": {
+              "start": {
+                "line": 3,
+                "character": 32
+              },
+              "end": {
+                "line": 3,
+                "character": 64
+              }
+            }
+          }
+        },
+        {
+          "specifier": "../_common/assert_path.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/_common/assert_path.ts",
+            "span": {
+              "start": {
+                "line": 4,
+                "character": 27
+              },
+              "end": {
+                "line": 4,
+                "character": 54
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./_util.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/posix/_util.ts",
+            "span": {
+              "start": {
+                "line": 5,
+                "character": 37
+              },
+              "end": {
+                "line": 5,
+                "character": 49
+              }
+            }
+          }
+        }
+      ],
+      "local": "/Users/marvinh/Library/Caches/deno/deps/https/jsr.io/9e425dcb609446f5011ce9e3b7a9ed1b1f453df8d196a1008a3c2edbbae4df2b",
+      "emit": "/Users/marvinh/Library/Caches/deno/gen/https/jsr.io/9e425dcb609446f5011ce9e3b7a9ed1b1f453df8d196a1008a3c2edbbae4df2b.js",
+      "map": null,
+      "size": 1897,
+      "mediaType": "TypeScript",
+      "specifier": "https://jsr.io/@std/path/0.225.2/posix/resolve.ts"
+    },
+    {
+      "kind": "esm",
+      "dependencies": [
+        {
+          "specifier": "../_common/to_file_url.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/_common/to_file_url.ts",
+            "span": {
+              "start": {
+                "line": 3,
+                "character": 33
+              },
+              "end": {
+                "line": 3,
+                "character": 60
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./is_absolute.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/posix/is_absolute.ts",
+            "span": {
+              "start": {
+                "line": 4,
+                "character": 27
+              },
+              "end": {
+                "line": 4,
+                "character": 45
+              }
+            }
+          }
+        }
+      ],
+      "local": "/Users/marvinh/Library/Caches/deno/deps/https/jsr.io/579a2efdd871a9d2f2ae00f311f7a772284cf1ebe0aa412e1767ba24454f3883",
+      "emit": "/Users/marvinh/Library/Caches/deno/gen/https/jsr.io/579a2efdd871a9d2f2ae00f311f7a772284cf1ebe0aa412e1767ba24454f3883.js",
+      "map": null,
+      "size": 926,
+      "mediaType": "TypeScript",
+      "specifier": "https://jsr.io/@std/path/0.225.2/posix/to_file_url.ts"
+    },
+    {
+      "kind": "esm",
+      "local": "/Users/marvinh/Library/Caches/deno/deps/https/jsr.io/f20b1b5ce94ecb767f6cbdc12debaa1497ae4544de7743eef656c233b4375dc2",
+      "emit": "/Users/marvinh/Library/Caches/deno/gen/https/jsr.io/f20b1b5ce94ecb767f6cbdc12debaa1497ae4544de7743eef656c233b4375dc2.js",
+      "map": null,
+      "size": 610,
+      "mediaType": "TypeScript",
+      "specifier": "https://jsr.io/@std/path/0.225.2/posix/to_namespaced_path.ts"
+    },
+    {
+      "kind": "esm",
+      "dependencies": [
+        {
+          "specifier": "./_os.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/_os.ts",
+            "span": {
+              "start": {
+                "line": 3,
+                "character": 26
+              },
+              "end": {
+                "line": 3,
+                "character": 36
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./posix/relative.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/posix/relative.ts",
+            "span": {
+              "start": {
+                "line": 4,
+                "character": 42
+              },
+              "end": {
+                "line": 4,
+                "character": 63
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./windows/relative.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/windows/relative.ts",
+            "span": {
+              "start": {
+                "line": 5,
+                "character": 44
+              },
+              "end": {
+                "line": 5,
+                "character": 67
+              }
+            }
+          }
+        }
+      ],
+      "local": "/Users/marvinh/Library/Caches/deno/deps/https/jsr.io/cf147a6de35bdaae41000449410b142529cfd9bb968660c1c1b1ab4c8160d9c5",
+      "emit": "/Users/marvinh/Library/Caches/deno/gen/https/jsr.io/cf147a6de35bdaae41000449410b142529cfd9bb968660c1c1b1ab4c8160d9c5.js",
+      "map": null,
+      "size": 1122,
+      "mediaType": "TypeScript",
+      "specifier": "https://jsr.io/@std/path/0.225.2/relative.ts"
+    },
+    {
+      "kind": "esm",
+      "dependencies": [
+        {
+          "specifier": "./_os.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/_os.ts",
+            "span": {
+              "start": {
+                "line": 3,
+                "character": 26
+              },
+              "end": {
+                "line": 3,
+                "character": 36
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./posix/resolve.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/posix/resolve.ts",
+            "span": {
+              "start": {
+                "line": 4,
+                "character": 40
+              },
+              "end": {
+                "line": 4,
+                "character": 60
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./windows/resolve.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/windows/resolve.ts",
+            "span": {
+              "start": {
+                "line": 5,
+                "character": 42
+              },
+              "end": {
+                "line": 5,
+                "character": 64
+              }
+            }
+          }
+        }
+      ],
+      "local": "/Users/marvinh/Library/Caches/deno/deps/https/jsr.io/4b90e95b8ab86e579d013fc1d2f5d8746f40c7d0d9bc896f15e3bc2965563aa4",
+      "emit": "/Users/marvinh/Library/Caches/deno/gen/https/jsr.io/4b90e95b8ab86e579d013fc1d2f5d8746f40c7d0d9bc896f15e3bc2965563aa4.js",
+      "map": null,
+      "size": 1056,
+      "mediaType": "TypeScript",
+      "specifier": "https://jsr.io/@std/path/0.225.2/resolve.ts"
+    },
+    {
+      "kind": "esm",
+      "dependencies": [
+        {
+          "specifier": "./_os.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/_os.ts",
+            "span": {
+              "start": {
+                "line": 3,
+                "character": 26
+              },
+              "end": {
+                "line": 3,
+                "character": 36
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./posix/to_file_url.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/posix/to_file_url.ts",
+            "span": {
+              "start": {
+                "line": 4,
+                "character": 44
+              },
+              "end": {
+                "line": 4,
+                "character": 68
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./windows/to_file_url.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/windows/to_file_url.ts",
+            "span": {
+              "start": {
+                "line": 5,
+                "character": 46
+              },
+              "end": {
+                "line": 5,
+                "character": 72
+              }
+            }
+          }
+        }
+      ],
+      "local": "/Users/marvinh/Library/Caches/deno/deps/https/jsr.io/e20cb065521e8effce8ae9dcfa3eae77a7b9359e4cc2161c2089c4fbcdc45e56",
+      "emit": "/Users/marvinh/Library/Caches/deno/gen/https/jsr.io/e20cb065521e8effce8ae9dcfa3eae77a7b9359e4cc2161c2089c4fbcdc45e56.js",
+      "map": null,
+      "size": 1092,
+      "mediaType": "TypeScript",
+      "specifier": "https://jsr.io/@std/path/0.225.2/to_file_url.ts"
+    },
+    {
+      "kind": "esm",
+      "dependencies": [
+        {
+          "specifier": "./_os.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/_os.ts",
+            "span": {
+              "start": {
+                "line": 3,
+                "character": 26
+              },
+              "end": {
+                "line": 3,
+                "character": 36
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./posix/to_namespaced_path.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/posix/to_namespaced_path.ts",
+            "span": {
+              "start": {
+                "line": 4,
+                "character": 58
+              },
+              "end": {
+                "line": 4,
+                "character": 89
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./windows/to_namespaced_path.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/windows/to_namespaced_path.ts",
+            "span": {
+              "start": {
+                "line": 5,
+                "character": 60
+              },
+              "end": {
+                "line": 5,
+                "character": 93
+              }
+            }
+          }
+        }
+      ],
+      "local": "/Users/marvinh/Library/Caches/deno/deps/https/jsr.io/b6d2c1dc87d34c8a08bb17fb92a9a5dd7dcc10d81133ad8d261da1828c191dcb",
+      "emit": "/Users/marvinh/Library/Caches/deno/gen/https/jsr.io/b6d2c1dc87d34c8a08bb17fb92a9a5dd7dcc10d81133ad8d261da1828c191dcb.js",
+      "map": null,
+      "size": 1028,
+      "mediaType": "TypeScript",
+      "specifier": "https://jsr.io/@std/path/0.225.2/to_namespaced_path.ts"
+    },
+    {
+      "kind": "esm",
+      "dependencies": [
+        {
+          "specifier": "../_common/constants.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/_common/constants.ts",
+            "span": {
+              "start": {
+                "line": 12,
+                "character": 7
+              },
+              "end": {
+                "line": 12,
+                "character": 32
+              }
+            }
+          }
+        }
+      ],
+      "local": "/Users/marvinh/Library/Caches/deno/deps/https/jsr.io/d05c2b79ac98436f31250935c09da27525582438a94e3a673cafaa02349b7936",
+      "emit": "/Users/marvinh/Library/Caches/deno/gen/https/jsr.io/d05c2b79ac98436f31250935c09da27525582438a94e3a673cafaa02349b7936.js",
+      "map": null,
+      "size": 828,
+      "mediaType": "TypeScript",
+      "specifier": "https://jsr.io/@std/path/0.225.2/windows/_util.ts"
+    },
+    {
+      "kind": "esm",
+      "dependencies": [
+        {
+          "specifier": "../_common/basename.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/_common/basename.ts",
+            "span": {
+              "start": {
+                "line": 7,
+                "character": 7
+              },
+              "end": {
+                "line": 7,
+                "character": 31
+              }
+            }
+          }
+        },
+        {
+          "specifier": "../_common/constants.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/_common/constants.ts",
+            "span": {
+              "start": {
+                "line": 8,
+                "character": 27
+              },
+              "end": {
+                "line": 8,
+                "character": 52
+              }
+            }
+          }
+        },
+        {
+          "specifier": "../_common/strip_trailing_separators.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/_common/strip_trailing_separators.ts",
+            "span": {
+              "start": {
+                "line": 9,
+                "character": 40
+              },
+              "end": {
+                "line": 9,
+                "character": 81
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./_util.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/windows/_util.ts",
+            "span": {
+              "start": {
+                "line": 10,
+                "character": 53
+              },
+              "end": {
+                "line": 10,
+                "character": 65
+              }
+            }
+          }
+        }
+      ],
+      "local": "/Users/marvinh/Library/Caches/deno/deps/https/jsr.io/454e95e00c74713fd884b19b45f13f71e2d23023c3744fffe040f0eaaff54401",
+      "emit": "/Users/marvinh/Library/Caches/deno/gen/https/jsr.io/454e95e00c74713fd884b19b45f13f71e2d23023c3744fffe040f0eaaff54401.js",
+      "map": null,
+      "size": 1724,
+      "mediaType": "TypeScript",
+      "specifier": "https://jsr.io/@std/path/0.225.2/windows/basename.ts"
+    },
+    {
+      "kind": "esm",
+      "dependencies": [
+        {
+          "specifier": "../_common/common.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/_common/common.ts",
+            "span": {
+              "start": {
+                "line": 3,
+                "character": 24
+              },
+              "end": {
+                "line": 3,
+                "character": 46
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./constants.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/windows/constants.ts",
+            "span": {
+              "start": {
+                "line": 4,
+                "character": 26
+              },
+              "end": {
+                "line": 4,
+                "character": 42
+              }
+            }
+          }
+        }
+      ],
+      "local": "/Users/marvinh/Library/Caches/deno/deps/https/jsr.io/5fb19939eaf6688d4b7a4f988450f18dc9faeeb9c2f93895a24cf934861bb225",
+      "emit": "/Users/marvinh/Library/Caches/deno/gen/https/jsr.io/5fb19939eaf6688d4b7a4f988450f18dc9faeeb9c2f93895a24cf934861bb225.js",
+      "map": null,
+      "size": 842,
+      "mediaType": "TypeScript",
+      "specifier": "https://jsr.io/@std/path/0.225.2/windows/common.ts"
+    },
+    {
+      "kind": "esm",
+      "local": "/Users/marvinh/Library/Caches/deno/deps/https/jsr.io/f0e3688853cfda56a16b3bface70284ef160e753368b5fb60801c25468157b8f",
+      "emit": "/Users/marvinh/Library/Caches/deno/gen/https/jsr.io/f0e3688853cfda56a16b3bface70284ef160e753368b5fb60801c25468157b8f.js",
+      "map": null,
+      "size": 463,
+      "mediaType": "TypeScript",
+      "specifier": "https://jsr.io/@std/path/0.225.2/windows/constants.ts"
+    },
+    {
+      "kind": "esm",
+      "dependencies": [
+        {
+          "specifier": "../_common/dirname.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/_common/dirname.ts",
+            "span": {
+              "start": {
+                "line": 3,
+                "character": 26
+              },
+              "end": {
+                "line": 3,
+                "character": 49
+              }
+            }
+          }
+        },
+        {
+          "specifier": "../_common/constants.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/_common/constants.ts",
+            "span": {
+              "start": {
+                "line": 4,
+                "character": 27
+              },
+              "end": {
+                "line": 4,
+                "character": 52
+              }
+            }
+          }
+        },
+        {
+          "specifier": "../_common/strip_trailing_separators.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/_common/strip_trailing_separators.ts",
+            "span": {
+              "start": {
+                "line": 5,
+                "character": 40
+              },
+              "end": {
+                "line": 5,
+                "character": 81
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./_util.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/windows/_util.ts",
+            "span": {
+              "start": {
+                "line": 10,
+                "character": 7
+              },
+              "end": {
+                "line": 10,
+                "character": 19
+              }
+            }
+          }
+        }
+      ],
+      "local": "/Users/marvinh/Library/Caches/deno/deps/https/jsr.io/55cbe4348c2003908275c81563483738c3e085a5faa95b504b1255e53656360e",
+      "emit": "/Users/marvinh/Library/Caches/deno/gen/https/jsr.io/55cbe4348c2003908275c81563483738c3e085a5faa95b504b1255e53656360e.js",
+      "map": null,
+      "size": 3156,
+      "mediaType": "TypeScript",
+      "specifier": "https://jsr.io/@std/path/0.225.2/windows/dirname.ts"
+    },
+    {
+      "kind": "esm",
+      "dependencies": [
+        {
+          "specifier": "../_common/constants.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/_common/constants.ts",
+            "span": {
+              "start": {
+                "line": 3,
+                "character": 37
+              },
+              "end": {
+                "line": 3,
+                "character": 62
+              }
+            }
+          }
+        },
+        {
+          "specifier": "../_common/assert_path.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/_common/assert_path.ts",
+            "span": {
+              "start": {
+                "line": 4,
+                "character": 27
+              },
+              "end": {
+                "line": 4,
+                "character": 54
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./_util.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/windows/_util.ts",
+            "span": {
+              "start": {
+                "line": 5,
+                "character": 53
+              },
+              "end": {
+                "line": 5,
+                "character": 65
+              }
+            }
+          }
+        }
+      ],
+      "local": "/Users/marvinh/Library/Caches/deno/deps/https/jsr.io/c9a12c8e9722f00d68034e11b6675e66a71626cc95dba5a040e3df98dd633142",
+      "emit": "/Users/marvinh/Library/Caches/deno/gen/https/jsr.io/c9a12c8e9722f00d68034e11b6675e66a71626cc95dba5a040e3df98dd633142.js",
+      "map": null,
+      "size": 2572,
+      "mediaType": "TypeScript",
+      "specifier": "https://jsr.io/@std/path/0.225.2/windows/extname.ts"
+    },
+    {
+      "kind": "esm",
+      "dependencies": [
+        {
+          "specifier": "../_common/format.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/_common/format.ts",
+            "span": {
+              "start": {
+                "line": 3,
+                "character": 35
+              },
+              "end": {
+                "line": 3,
+                "character": 57
+              }
+            }
+          }
+        },
+        {
+          "specifier": "../_interface.ts",
+          "type": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/_interface.ts",
+            "span": {
+              "start": {
+                "line": 4,
+                "character": 43
+              },
+              "end": {
+                "line": 4,
+                "character": 61
+              }
+            }
+          }
+        }
+      ],
+      "local": "/Users/marvinh/Library/Caches/deno/deps/https/jsr.io/46b6e3cfcaa2f380484f43870d7dbaf2b73886cf8c538d2c425ee135cbf9c36d",
+      "emit": "/Users/marvinh/Library/Caches/deno/gen/https/jsr.io/46b6e3cfcaa2f380484f43870d7dbaf2b73886cf8c538d2c425ee135cbf9c36d.js",
+      "map": null,
+      "size": 857,
+      "mediaType": "TypeScript",
+      "specifier": "https://jsr.io/@std/path/0.225.2/windows/format.ts"
+    },
+    {
+      "kind": "esm",
+      "dependencies": [
+        {
+          "specifier": "../_common/from_file_url.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/_common/from_file_url.ts",
+            "span": {
+              "start": {
+                "line": 3,
+                "character": 26
+              },
+              "end": {
+                "line": 3,
+                "character": 55
+              }
+            }
+          }
+        }
+      ],
+      "local": "/Users/marvinh/Library/Caches/deno/deps/https/jsr.io/deda0860ce695934389a6bdeec2435860d685dd86a1a658d47509077030a5267",
+      "emit": "/Users/marvinh/Library/Caches/deno/gen/https/jsr.io/deda0860ce695934389a6bdeec2435860d685dd86a1a658d47509077030a5267.js",
+      "map": null,
+      "size": 1203,
+      "mediaType": "TypeScript",
+      "specifier": "https://jsr.io/@std/path/0.225.2/windows/from_file_url.ts"
+    },
+    {
+      "kind": "esm",
+      "dependencies": [
+        {
+          "specifier": "../_common/glob_to_reg_exp.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/_common/glob_to_reg_exp.ts",
+            "span": {
+              "start": {
+                "line": 7,
+                "character": 7
+              },
+              "end": {
+                "line": 7,
+                "character": 38
+              }
+            }
+          }
+        }
+      ],
+      "local": "/Users/marvinh/Library/Caches/deno/deps/https/jsr.io/b2373a2405fa4fabc44e5d5ef90fd3ffbc978cbf7defefa37917105f72450b4d",
+      "emit": "/Users/marvinh/Library/Caches/deno/gen/https/jsr.io/b2373a2405fa4fabc44e5d5ef90fd3ffbc978cbf7defefa37917105f72450b4d.js",
+      "map": null,
+      "size": 3805,
+      "mediaType": "TypeScript",
+      "specifier": "https://jsr.io/@std/path/0.225.2/windows/glob_to_regexp.ts"
+    },
+    {
+      "kind": "esm",
+      "dependencies": [
+        {
+          "specifier": "../_common/constants.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/_common/constants.ts",
+            "span": {
+              "start": {
+                "line": 3,
+                "character": 27
+              },
+              "end": {
+                "line": 3,
+                "character": 52
+              }
+            }
+          }
+        },
+        {
+          "specifier": "../_common/assert_path.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/_common/assert_path.ts",
+            "span": {
+              "start": {
+                "line": 4,
+                "character": 27
+              },
+              "end": {
+                "line": 4,
+                "character": 54
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./_util.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/windows/_util.ts",
+            "span": {
+              "start": {
+                "line": 5,
+                "character": 53
+              },
+              "end": {
+                "line": 5,
+                "character": 65
+              }
+            }
+          }
+        }
+      ],
+      "local": "/Users/marvinh/Library/Caches/deno/deps/https/jsr.io/90019885e49f19cf32cc50fd3cfd75727a9818dd636aec8718142d81c7e657f3",
+      "emit": "/Users/marvinh/Library/Caches/deno/gen/https/jsr.io/90019885e49f19cf32cc50fd3cfd75727a9818dd636aec8718142d81c7e657f3.js",
+      "map": null,
+      "size": 1113,
+      "mediaType": "TypeScript",
+      "specifier": "https://jsr.io/@std/path/0.225.2/windows/is_absolute.ts"
+    },
+    {
+      "kind": "esm",
+      "dependencies": [
+        {
+          "specifier": "../is_glob.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/is_glob.ts",
+            "span": {
+              "start": {
+                "line": 3,
+                "character": 23
+              },
+              "end": {
+                "line": 3,
+                "character": 38
+              }
+            }
+          }
+        }
+      ],
+      "local": "/Users/marvinh/Library/Caches/deno/deps/https/jsr.io/7d2bb39dd5123a96f5437a8cc07694e716046e03fb864fd6ffc41dff77493204",
+      "emit": "/Users/marvinh/Library/Caches/deno/gen/https/jsr.io/7d2bb39dd5123a96f5437a8cc07694e716046e03fb864fd6ffc41dff77493204.js",
+      "map": null,
+      "size": 154,
+      "mediaType": "TypeScript",
+      "specifier": "https://jsr.io/@std/path/0.225.2/windows/is_glob.ts"
+    },
+    {
+      "kind": "esm",
+      "dependencies": [
+        {
+          "specifier": "jsr:/@std/assert@^0.226.0/assert",
+          "code": {
+            "specifier": "jsr:/@std/assert@^0.226.0/assert",
+            "span": {
+              "start": {
+                "line": 3,
+                "character": 23
+              },
+              "end": {
+                "line": 3,
+                "character": 57
+              }
+            }
+          }
+        },
+        {
+          "specifier": "../_common/assert_path.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/_common/assert_path.ts",
+            "span": {
+              "start": {
+                "line": 4,
+                "character": 27
+              },
+              "end": {
+                "line": 4,
+                "character": 54
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./_util.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/windows/_util.ts",
+            "span": {
+              "start": {
+                "line": 5,
+                "character": 32
+              },
+              "end": {
+                "line": 5,
+                "character": 44
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./normalize.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/windows/normalize.ts",
+            "span": {
+              "start": {
+                "line": 6,
+                "character": 26
+              },
+              "end": {
+                "line": 6,
+                "character": 42
+              }
+            }
+          }
+        }
+      ],
+      "local": "/Users/marvinh/Library/Caches/deno/deps/https/jsr.io/541a1bebd7ab83a7ddf2d72f129c6b455c0deb94bd6180cbb85d0066dc99149e",
+      "emit": "/Users/marvinh/Library/Caches/deno/gen/https/jsr.io/541a1bebd7ab83a7ddf2d72f129c6b455c0deb94bd6180cbb85d0066dc99149e.js",
+      "map": null,
+      "size": 2751,
+      "mediaType": "TypeScript",
+      "specifier": "https://jsr.io/@std/path/0.225.2/windows/join.ts"
+    },
+    {
+      "kind": "esm",
+      "dependencies": [
+        {
+          "specifier": "../_common/glob_to_reg_exp.ts",
+          "type": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/_common/glob_to_reg_exp.ts",
+            "span": {
+              "start": {
+                "line": 3,
+                "character": 33
+              },
+              "end": {
+                "line": 3,
+                "character": 64
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./join.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/windows/join.ts",
+            "span": {
+              "start": {
+                "line": 4,
+                "character": 21
+              },
+              "end": {
+                "line": 4,
+                "character": 32
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./constants.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/windows/constants.ts",
+            "span": {
+              "start": {
+                "line": 5,
+                "character": 26
+              },
+              "end": {
+                "line": 5,
+                "character": 42
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./normalize_glob.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/windows/normalize_glob.ts",
+            "span": {
+              "start": {
+                "line": 6,
+                "character": 30
+              },
+              "end": {
+                "line": 6,
+                "character": 51
+              }
+            }
+          }
+        }
+      ],
+      "local": "/Users/marvinh/Library/Caches/deno/deps/https/jsr.io/76bc2b90c4730f53c2e92b3d8ffe0ab9bd79513a9eedc6586918b1a8986432f9",
+      "emit": "/Users/marvinh/Library/Caches/deno/gen/https/jsr.io/76bc2b90c4730f53c2e92b3d8ffe0ab9bd79513a9eedc6586918b1a8986432f9.js",
+      "map": null,
+      "size": 1297,
+      "mediaType": "TypeScript",
+      "specifier": "https://jsr.io/@std/path/0.225.2/windows/join_globs.ts"
+    },
+    {
+      "kind": "esm",
+      "dependencies": [
+        {
+          "specifier": "./basename.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/windows/basename.ts",
+            "span": {
+              "start": {
+                "line": 23,
+                "character": 14
+              },
+              "end": {
+                "line": 23,
+                "character": 29
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./constants.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/windows/constants.ts",
+            "span": {
+              "start": {
+                "line": 24,
+                "character": 14
+              },
+              "end": {
+                "line": 24,
+                "character": 30
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./dirname.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/windows/dirname.ts",
+            "span": {
+              "start": {
+                "line": 25,
+                "character": 14
+              },
+              "end": {
+                "line": 25,
+                "character": 28
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./extname.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/windows/extname.ts",
+            "span": {
+              "start": {
+                "line": 26,
+                "character": 14
+              },
+              "end": {
+                "line": 26,
+                "character": 28
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./format.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/windows/format.ts",
+            "span": {
+              "start": {
+                "line": 27,
+                "character": 14
+              },
+              "end": {
+                "line": 27,
+                "character": 27
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./from_file_url.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/windows/from_file_url.ts",
+            "span": {
+              "start": {
+                "line": 28,
+                "character": 14
+              },
+              "end": {
+                "line": 28,
+                "character": 34
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./is_absolute.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/windows/is_absolute.ts",
+            "span": {
+              "start": {
+                "line": 29,
+                "character": 14
+              },
+              "end": {
+                "line": 29,
+                "character": 32
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./join.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/windows/join.ts",
+            "span": {
+              "start": {
+                "line": 30,
+                "character": 14
+              },
+              "end": {
+                "line": 30,
+                "character": 25
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./normalize.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/windows/normalize.ts",
+            "span": {
+              "start": {
+                "line": 31,
+                "character": 14
+              },
+              "end": {
+                "line": 31,
+                "character": 30
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./parse.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/windows/parse.ts",
+            "span": {
+              "start": {
+                "line": 32,
+                "character": 14
+              },
+              "end": {
+                "line": 32,
+                "character": 26
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./relative.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/windows/relative.ts",
+            "span": {
+              "start": {
+                "line": 33,
+                "character": 14
+              },
+              "end": {
+                "line": 33,
+                "character": 29
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./resolve.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/windows/resolve.ts",
+            "span": {
+              "start": {
+                "line": 34,
+                "character": 14
+              },
+              "end": {
+                "line": 34,
+                "character": 28
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./to_file_url.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/windows/to_file_url.ts",
+            "span": {
+              "start": {
+                "line": 35,
+                "character": 14
+              },
+              "end": {
+                "line": 35,
+                "character": 32
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./to_namespaced_path.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/windows/to_namespaced_path.ts",
+            "span": {
+              "start": {
+                "line": 36,
+                "character": 14
+              },
+              "end": {
+                "line": 36,
+                "character": 39
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./common.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/windows/common.ts",
+            "span": {
+              "start": {
+                "line": 37,
+                "character": 14
+              },
+              "end": {
+                "line": 37,
+                "character": 27
+              }
+            }
+          }
+        },
+        {
+          "specifier": "../_interface.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/_interface.ts",
+            "span": {
+              "start": {
+                "line": 38,
+                "character": 14
+              },
+              "end": {
+                "line": 38,
+                "character": 32
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./glob_to_regexp.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/windows/glob_to_regexp.ts",
+            "span": {
+              "start": {
+                "line": 39,
+                "character": 14
+              },
+              "end": {
+                "line": 39,
+                "character": 35
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./is_glob.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/windows/is_glob.ts",
+            "span": {
+              "start": {
+                "line": 40,
+                "character": 14
+              },
+              "end": {
+                "line": 40,
+                "character": 28
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./join_globs.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/windows/join_globs.ts",
+            "span": {
+              "start": {
+                "line": 41,
+                "character": 14
+              },
+              "end": {
+                "line": 41,
+                "character": 31
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./normalize_glob.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/windows/normalize_glob.ts",
+            "span": {
+              "start": {
+                "line": 42,
+                "character": 14
+              },
+              "end": {
+                "line": 42,
+                "character": 35
+              }
+            }
+          }
+        }
+      ],
+      "local": "/Users/marvinh/Library/Caches/deno/deps/https/jsr.io/33deed84ee9fca64017ea0edb681e02756fe792a57ed420986aa30c69c0f595a",
+      "emit": "/Users/marvinh/Library/Caches/deno/gen/https/jsr.io/33deed84ee9fca64017ea0edb681e02756fe792a57ed420986aa30c69c0f595a.js",
+      "map": null,
+      "size": 1390,
+      "mediaType": "TypeScript",
+      "specifier": "https://jsr.io/@std/path/0.225.2/windows/mod.ts"
+    },
+    {
+      "kind": "esm",
+      "dependencies": [
+        {
+          "specifier": "../_common/normalize.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/_common/normalize.ts",
+            "span": {
+              "start": {
+                "line": 3,
+                "character": 26
+              },
+              "end": {
+                "line": 3,
+                "character": 51
+              }
+            }
+          }
+        },
+        {
+          "specifier": "../_common/constants.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/_common/constants.ts",
+            "span": {
+              "start": {
+                "line": 4,
+                "character": 27
+              },
+              "end": {
+                "line": 4,
+                "character": 52
+              }
+            }
+          }
+        },
+        {
+          "specifier": "../_common/normalize_string.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/_common/normalize_string.ts",
+            "span": {
+              "start": {
+                "line": 5,
+                "character": 32
+              },
+              "end": {
+                "line": 5,
+                "character": 64
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./_util.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/windows/_util.ts",
+            "span": {
+              "start": {
+                "line": 6,
+                "character": 53
+              },
+              "end": {
+                "line": 6,
+                "character": 65
+              }
+            }
+          }
+        }
+      ],
+      "local": "/Users/marvinh/Library/Caches/deno/deps/https/jsr.io/bbf04f287f7c44ac058f5d1f1c7698e0dd03b4eaf02506755aee3a4ff7da32cd",
+      "emit": "/Users/marvinh/Library/Caches/deno/gen/https/jsr.io/bbf04f287f7c44ac058f5d1f1c7698e0dd03b4eaf02506755aee3a4ff7da32cd.js",
+      "map": null,
+      "size": 4080,
+      "mediaType": "TypeScript",
+      "specifier": "https://jsr.io/@std/path/0.225.2/windows/normalize.ts"
+    },
+    {
+      "kind": "esm",
+      "dependencies": [
+        {
+          "specifier": "../_common/glob_to_reg_exp.ts",
+          "type": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/_common/glob_to_reg_exp.ts",
+            "span": {
+              "start": {
+                "line": 3,
+                "character": 33
+              },
+              "end": {
+                "line": 3,
+                "character": 64
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./normalize.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/windows/normalize.ts",
+            "span": {
+              "start": {
+                "line": 4,
+                "character": 26
+              },
+              "end": {
+                "line": 4,
+                "character": 42
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./constants.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/windows/constants.ts",
+            "span": {
+              "start": {
+                "line": 5,
+                "character": 34
+              },
+              "end": {
+                "line": 5,
+                "character": 50
+              }
+            }
+          }
+        }
+      ],
+      "local": "/Users/marvinh/Library/Caches/deno/deps/https/jsr.io/3a692b8447f9691d093c7def64a249962134416719bb5b4be1b73f9c4f941b64",
+      "emit": "/Users/marvinh/Library/Caches/deno/gen/https/jsr.io/3a692b8447f9691d093c7def64a249962134416719bb5b4be1b73f9c4f941b64.js",
+      "map": null,
+      "size": 1286,
+      "mediaType": "TypeScript",
+      "specifier": "https://jsr.io/@std/path/0.225.2/windows/normalize_glob.ts"
+    },
+    {
+      "kind": "esm",
+      "dependencies": [
+        {
+          "specifier": "../_common/constants.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/_common/constants.ts",
+            "span": {
+              "start": {
+                "line": 3,
+                "character": 37
+              },
+              "end": {
+                "line": 3,
+                "character": 62
+              }
+            }
+          }
+        },
+        {
+          "specifier": "../_interface.ts",
+          "type": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/_interface.ts",
+            "span": {
+              "start": {
+                "line": 4,
+                "character": 32
+              },
+              "end": {
+                "line": 4,
+                "character": 50
+              }
+            }
+          }
+        },
+        {
+          "specifier": "../_common/assert_path.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/_common/assert_path.ts",
+            "span": {
+              "start": {
+                "line": 5,
+                "character": 27
+              },
+              "end": {
+                "line": 5,
+                "character": 54
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./_util.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/windows/_util.ts",
+            "span": {
+              "start": {
+                "line": 6,
+                "character": 53
+              },
+              "end": {
+                "line": 6,
+                "character": 65
+              }
+            }
+          }
+        }
+      ],
+      "local": "/Users/marvinh/Library/Caches/deno/deps/https/jsr.io/301cb72bd44cc71adb37297e8dbb3278b248c6ed3bf74f25ed8c360497a283eb",
+      "emit": "/Users/marvinh/Library/Caches/deno/gen/https/jsr.io/301cb72bd44cc71adb37297e8dbb3278b248c6ed3bf74f25ed8c360497a283eb.js",
+      "map": null,
+      "size": 5365,
+      "mediaType": "TypeScript",
+      "specifier": "https://jsr.io/@std/path/0.225.2/windows/parse.ts"
+    },
+    {
+      "kind": "esm",
+      "dependencies": [
+        {
+          "specifier": "../_common/constants.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/_common/constants.ts",
+            "span": {
+              "start": {
+                "line": 3,
+                "character": 36
+              },
+              "end": {
+                "line": 3,
+                "character": 61
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./resolve.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/windows/resolve.ts",
+            "span": {
+              "start": {
+                "line": 4,
+                "character": 24
+              },
+              "end": {
+                "line": 4,
+                "character": 38
+              }
+            }
+          }
+        },
+        {
+          "specifier": "../_common/relative.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/_common/relative.ts",
+            "span": {
+              "start": {
+                "line": 5,
+                "character": 27
+              },
+              "end": {
+                "line": 5,
+                "character": 51
+              }
+            }
+          }
+        }
+      ],
+      "local": "/Users/marvinh/Library/Caches/deno/deps/https/jsr.io/b94069958f793c97271ba0900d813ec27efdfe76a5c1e5d4fbf1bb1fadeef483",
+      "emit": "/Users/marvinh/Library/Caches/deno/gen/https/jsr.io/b94069958f793c97271ba0900d813ec27efdfe76a5c1e5d4fbf1bb1fadeef483.js",
+      "map": null,
+      "size": 4355,
+      "mediaType": "TypeScript",
+      "specifier": "https://jsr.io/@std/path/0.225.2/windows/relative.ts"
+    },
+    {
+      "kind": "esm",
+      "dependencies": [
+        {
+          "specifier": "../_common/constants.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/_common/constants.ts",
+            "span": {
+              "start": {
+                "line": 3,
+                "character": 27
+              },
+              "end": {
+                "line": 3,
+                "character": 52
+              }
+            }
+          }
+        },
+        {
+          "specifier": "../_common/normalize_string.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/_common/normalize_string.ts",
+            "span": {
+              "start": {
+                "line": 4,
+                "character": 32
+              },
+              "end": {
+                "line": 4,
+                "character": 64
+              }
+            }
+          }
+        },
+        {
+          "specifier": "../_common/assert_path.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/_common/assert_path.ts",
+            "span": {
+              "start": {
+                "line": 5,
+                "character": 27
+              },
+              "end": {
+                "line": 5,
+                "character": 54
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./_util.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/windows/_util.ts",
+            "span": {
+              "start": {
+                "line": 6,
+                "character": 53
+              },
+              "end": {
+                "line": 6,
+                "character": 65
+              }
+            }
+          }
+        }
+      ],
+      "local": "/Users/marvinh/Library/Caches/deno/deps/https/jsr.io/2050d7dd0bd47f413395a30de73622e80982f0728313362218292403996e6ff8",
+      "emit": "/Users/marvinh/Library/Caches/deno/gen/https/jsr.io/2050d7dd0bd47f413395a30de73622e80982f0728313362218292403996e6ff8.js",
+      "map": null,
+      "size": 5156,
+      "mediaType": "TypeScript",
+      "specifier": "https://jsr.io/@std/path/0.225.2/windows/resolve.ts"
+    },
+    {
+      "kind": "esm",
+      "dependencies": [
+        {
+          "specifier": "../_common/to_file_url.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/_common/to_file_url.ts",
+            "span": {
+              "start": {
+                "line": 3,
+                "character": 33
+              },
+              "end": {
+                "line": 3,
+                "character": 60
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./is_absolute.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/windows/is_absolute.ts",
+            "span": {
+              "start": {
+                "line": 4,
+                "character": 27
+              },
+              "end": {
+                "line": 4,
+                "character": 45
+              }
+            }
+          }
+        }
+      ],
+      "local": "/Users/marvinh/Library/Caches/deno/deps/https/jsr.io/d2acae6ee6d5fa4a70e5a30c46b12997dde0b878182f52be97a62f9bc53ccf2c",
+      "emit": "/Users/marvinh/Library/Caches/deno/gen/https/jsr.io/d2acae6ee6d5fa4a70e5a30c46b12997dde0b878182f52be97a62f9bc53ccf2c.js",
+      "map": null,
+      "size": 1272,
+      "mediaType": "TypeScript",
+      "specifier": "https://jsr.io/@std/path/0.225.2/windows/to_file_url.ts"
+    },
+    {
+      "kind": "esm",
+      "dependencies": [
+        {
+          "specifier": "../_common/constants.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/_common/constants.ts",
+            "span": {
+              "start": {
+                "line": 8,
+                "character": 7
+              },
+              "end": {
+                "line": 8,
+                "character": 32
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./_util.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/windows/_util.ts",
+            "span": {
+              "start": {
+                "line": 9,
+                "character": 36
+              },
+              "end": {
+                "line": 9,
+                "character": 48
+              }
+            }
+          }
+        },
+        {
+          "specifier": "./resolve.ts",
+          "code": {
+            "specifier": "https://jsr.io/@std/path/0.225.2/windows/resolve.ts",
+            "span": {
+              "start": {
+                "line": 10,
+                "character": 24
+              },
+              "end": {
+                "line": 10,
+                "character": 38
+              }
+            }
+          }
+        }
+      ],
+      "local": "/Users/marvinh/Library/Caches/deno/deps/https/jsr.io/857bb50502130f70c53286e96cfd778761d99303012a5f71db942276f012b329",
+      "emit": "/Users/marvinh/Library/Caches/deno/gen/https/jsr.io/857bb50502130f70c53286e96cfd778761d99303012a5f71db942276f012b329.js",
+      "map": null,
+      "size": 1801,
+      "mediaType": "TypeScript",
+      "specifier": "https://jsr.io/@std/path/0.225.2/windows/to_namespaced_path.ts"
+    }
+  ],
+  "redirects": {
+    "jsr:/@std/assert@^0.226.0/assert": "https://jsr.io/@std/assert/0.226.0/assert.ts",
+    "jsr:/@std/encoding@^1.0.0-rc.1/hex": "https://jsr.io/@std/encoding/1.0.0-rc.2/hex.ts",
+    "jsr:/@std/fmt@^0.225.3/colors": "https://jsr.io/@std/fmt/0.225.4/colors.ts",
+    "jsr:@std/html@^0.224.2": "https://jsr.io/@std/html/0.224.2/mod.ts",
+    "jsr:@std/path@^0.225.2": "https://jsr.io/@std/path/0.225.2/mod.ts",
+    "npm:/preact@^10.22.0/jsx-runtime": "npm:/preact@10.22.0/jsx-runtime",
+    "npm:@preact/signals@^1.2.3": "npm:/@preact/signals@1.2.3",
+    "npm:preact-render-to-string@^6.4.2": "npm:/preact-render-to-string@6.5.3",
+    "npm:preact@^10.22.0": "npm:/preact@10.22.0"
+  },
+  "packages": {
+    "@fresh/core@^2.0.0-alpha.17": "@fresh/core@2.0.0-alpha.17",
+    "@luca/esbuild-deno-loader@^0.10.3": "@luca/esbuild-deno-loader@0.10.3",
+    "@marvinh-test/fresh-island@^0.0.1": "@marvinh-test/fresh-island@0.0.1",
+    "@marvinh-test/fresh-island": "@marvinh-test/fresh-island@0.0.1",
+    "@std/assert@^0.226.0": "@std/assert@0.226.0",
+    "@std/assert@^0.213.1": "@std/assert@0.213.1",
+    "@std/crypto@1.0.0-rc.1": "@std/crypto@1.0.0-rc.1",
+    "@std/datetime@^0.224.0": "@std/datetime@0.224.1",
+    "@std/encoding@^1.0.0-rc.1": "@std/encoding@1.0.0-rc.2",
+    "@std/encoding@0.213": "@std/encoding@0.213.1",
+    "@std/fmt@^0.225.3": "@std/fmt@0.225.4",
+    "@std/fs@^0.229.1": "@std/fs@0.229.3",
+    "@std/html@^0.224.2": "@std/html@0.224.2",
+    "@std/json@^0.224.1": "@std/json@0.224.1",
+    "@std/json@^0.213.1": "@std/json@0.213.1",
+    "@std/jsonc@^0.224.1": "@std/jsonc@0.224.2",
+    "@std/jsonc@0.213": "@std/jsonc@0.213.1",
+    "@std/media-types@^1.0.0-rc.1": "@std/media-types@1.0.0-rc.1",
+    "@std/path@^0.225.2": "@std/path@0.225.2",
+    "@std/path@1.0.0-rc.1": "@std/path@1.0.0-rc.1",
+    "@std/path@0.213": "@std/path@0.213.1",
+    "@std/semver@^0.224.3": "@std/semver@0.224.3"
+  },
+  "npmPackages": {
+    "@esbuild/aix-ppc64@0.20.2": {
+      "name": "@esbuild/aix-ppc64",
+      "version": "0.20.2",
+      "dependencies": []
+    },
+    "@esbuild/android-arm@0.20.2": {
+      "name": "@esbuild/android-arm",
+      "version": "0.20.2",
+      "dependencies": []
+    },
+    "@esbuild/android-arm64@0.20.2": {
+      "name": "@esbuild/android-arm64",
+      "version": "0.20.2",
+      "dependencies": []
+    },
+    "@esbuild/android-x64@0.20.2": {
+      "name": "@esbuild/android-x64",
+      "version": "0.20.2",
+      "dependencies": []
+    },
+    "@esbuild/darwin-arm64@0.20.2": {
+      "name": "@esbuild/darwin-arm64",
+      "version": "0.20.2",
+      "dependencies": []
+    },
+    "@esbuild/darwin-x64@0.20.2": {
+      "name": "@esbuild/darwin-x64",
+      "version": "0.20.2",
+      "dependencies": []
+    },
+    "@esbuild/freebsd-arm64@0.20.2": {
+      "name": "@esbuild/freebsd-arm64",
+      "version": "0.20.2",
+      "dependencies": []
+    },
+    "@esbuild/freebsd-x64@0.20.2": {
+      "name": "@esbuild/freebsd-x64",
+      "version": "0.20.2",
+      "dependencies": []
+    },
+    "@esbuild/linux-arm@0.20.2": {
+      "name": "@esbuild/linux-arm",
+      "version": "0.20.2",
+      "dependencies": []
+    },
+    "@esbuild/linux-arm64@0.20.2": {
+      "name": "@esbuild/linux-arm64",
+      "version": "0.20.2",
+      "dependencies": []
+    },
+    "@esbuild/linux-ia32@0.20.2": {
+      "name": "@esbuild/linux-ia32",
+      "version": "0.20.2",
+      "dependencies": []
+    },
+    "@esbuild/linux-loong64@0.20.2": {
+      "name": "@esbuild/linux-loong64",
+      "version": "0.20.2",
+      "dependencies": []
+    },
+    "@esbuild/linux-mips64el@0.20.2": {
+      "name": "@esbuild/linux-mips64el",
+      "version": "0.20.2",
+      "dependencies": []
+    },
+    "@esbuild/linux-ppc64@0.20.2": {
+      "name": "@esbuild/linux-ppc64",
+      "version": "0.20.2",
+      "dependencies": []
+    },
+    "@esbuild/linux-riscv64@0.20.2": {
+      "name": "@esbuild/linux-riscv64",
+      "version": "0.20.2",
+      "dependencies": []
+    },
+    "@esbuild/linux-s390x@0.20.2": {
+      "name": "@esbuild/linux-s390x",
+      "version": "0.20.2",
+      "dependencies": []
+    },
+    "@esbuild/linux-x64@0.20.2": {
+      "name": "@esbuild/linux-x64",
+      "version": "0.20.2",
+      "dependencies": []
+    },
+    "@esbuild/netbsd-x64@0.20.2": {
+      "name": "@esbuild/netbsd-x64",
+      "version": "0.20.2",
+      "dependencies": []
+    },
+    "@esbuild/openbsd-x64@0.20.2": {
+      "name": "@esbuild/openbsd-x64",
+      "version": "0.20.2",
+      "dependencies": []
+    },
+    "@esbuild/sunos-x64@0.20.2": {
+      "name": "@esbuild/sunos-x64",
+      "version": "0.20.2",
+      "dependencies": []
+    },
+    "@esbuild/win32-arm64@0.20.2": {
+      "name": "@esbuild/win32-arm64",
+      "version": "0.20.2",
+      "dependencies": []
+    },
+    "@esbuild/win32-ia32@0.20.2": {
+      "name": "@esbuild/win32-ia32",
+      "version": "0.20.2",
+      "dependencies": []
+    },
+    "@esbuild/win32-x64@0.20.2": {
+      "name": "@esbuild/win32-x64",
+      "version": "0.20.2",
+      "dependencies": []
+    },
+    "@preact/signals@1.2.3_preact@10.22.0": {
+      "name": "@preact/signals",
+      "version": "1.2.3",
+      "dependencies": [
+        "@preact/signals-core@1.6.0",
+        "preact@10.22.0"
+      ]
+    },
+    "@preact/signals-core@1.6.0": {
+      "name": "@preact/signals-core",
+      "version": "1.6.0",
+      "dependencies": []
+    },
+    "esbuild@0.20.2": {
+      "name": "esbuild",
+      "version": "0.20.2",
+      "dependencies": [
+        "@esbuild/aix-ppc64@0.20.2",
+        "@esbuild/android-arm@0.20.2",
+        "@esbuild/android-arm64@0.20.2",
+        "@esbuild/android-x64@0.20.2",
+        "@esbuild/darwin-arm64@0.20.2",
+        "@esbuild/darwin-x64@0.20.2",
+        "@esbuild/freebsd-arm64@0.20.2",
+        "@esbuild/freebsd-x64@0.20.2",
+        "@esbuild/linux-arm@0.20.2",
+        "@esbuild/linux-arm64@0.20.2",
+        "@esbuild/linux-ia32@0.20.2",
+        "@esbuild/linux-loong64@0.20.2",
+        "@esbuild/linux-mips64el@0.20.2",
+        "@esbuild/linux-ppc64@0.20.2",
+        "@esbuild/linux-riscv64@0.20.2",
+        "@esbuild/linux-s390x@0.20.2",
+        "@esbuild/linux-x64@0.20.2",
+        "@esbuild/netbsd-x64@0.20.2",
+        "@esbuild/openbsd-x64@0.20.2",
+        "@esbuild/sunos-x64@0.20.2",
+        "@esbuild/win32-arm64@0.20.2",
+        "@esbuild/win32-ia32@0.20.2",
+        "@esbuild/win32-x64@0.20.2"
+      ]
+    },
+    "esbuild-wasm@0.20.2": {
+      "name": "esbuild-wasm",
+      "version": "0.20.2",
+      "dependencies": []
+    },
+    "preact@10.22.0": {
+      "name": "preact",
+      "version": "10.22.0",
+      "dependencies": []
+    },
+    "preact-render-to-string@6.5.3_preact@10.22.0": {
+      "name": "preact-render-to-string",
+      "version": "6.5.3",
+      "dependencies": [
+        "preact@10.22.0"
+      ]
+    }
+  }
+}
